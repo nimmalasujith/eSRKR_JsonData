@@ -1,18 +1,12 @@
 [
   {"heading":"Unit 1",
-  "description":"hello1",
-   "pdfname":"hello",
-   "size":'3'
+  "description":"hello1"
   },
    {"heading":"Unit 2",
-  "description":"hello2",
-    "pdfname":"hello",
-    "size":'3'
+  "description":"hello2"
   },
  {"heading":"Unit 3",
-  "description":"hello3",
-  "pdfname":"hello",
-  "size":'3'
+  "description":"hello3"
   }
 
 ]
