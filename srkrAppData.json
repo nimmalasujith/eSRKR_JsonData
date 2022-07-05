@@ -1,0 +1,35 @@
+[
+  {
+    "name": "ECE",
+    "subjects": [
+      {
+        "subjectName": "ECAD",
+        "description": "description",
+        "regulation": "R-20",
+        "units": "1,2,3,4,5",
+        "pdfs": "5",
+        "updated": "1/07/2022"
+      },
+      {
+        "subjectName": "lDIC",
+        "description": "description",
+        "regulation": "R-20",
+        "units": "1,2,3,4,5",
+        "pdfs": "5",
+        "updated": "1/07/2022"
+      }
+    ],
+    "SubjectLink": "",
+    "labSubjects": [
+      {
+        "labSubjectName": "lDIC",
+        "description": "description",
+        "regulation": "R-20",
+        "expt": "1,2,3,4,5",
+        "pdfs": "5",
+        "updated": "1/07/2022"
+      }
+    ],
+    "labSubjectLink": ""
+  }
+]
