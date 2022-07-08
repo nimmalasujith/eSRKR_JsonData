@@ -1,0 +1,18 @@
+[
+  "faculty":[
+  {
+  "email":"@123",
+  "name":"hello",
+  "description1":"desp1",
+  "description2":"desp2"
+  }
+],
+"student":[
+  {
+  "email":"@123",
+  "name":"hello",
+  "description1":"desp1",
+  "description2":"desp2"
+  }
+]
+]
