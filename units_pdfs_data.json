@@ -8,6 +8,22 @@
         "pdfSize": "3",
         "pdfLink": ""
       }
+    ],
+    "facultyChannels":[
+      {
+        "name":"channel name",
+        "TypeOfLink":"Youtube Link",
+        "description":"about",
+        "link":"http"
+      }
+    ],
+    "otherLinks":[
+      {
+         "name":"channel name",
+        "TypeOfLink":"Youtube Link",
+        "description":"about",
+        "link":"http"
+      }
     ]
   }
 }
