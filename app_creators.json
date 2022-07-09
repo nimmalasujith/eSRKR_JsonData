@@ -5,37 +5,14 @@
   "name":"hello",
   "description1":"desp1",
   "description2":"desp2"
-  },
-    {
-  "email":"@123",
-  "name":"hello",
-  "description1":"desp1",
-  "description2":"desp2"
-  },
-    {
-  "email":"@123",
-  "name":"hello",
-  "description1":"desp1",
-  "description2":"desp2"
   }
 ],
 "student":[
   {
-  "email":"@123",
-  "name":"hello",
-  "description1":"desp1",
-  "description2":"desp2"
-  },{
-  "email":"@123",
-  "name":"hello",
-  "description1":"desp1",
-  "description2":"desp2"
-  },
-  {
-  "email":"@123",
-  "name":"hello",
-  "description1":"desp1",
-  "description2":"desp2"
+  "email":"sujithnimmala03@gmail.com",
+  "name":"NIMMALA SUJITH",
+  "description1":"R20-ECE-20B91A04H1",
+  "description2":"Email : sujithnimmala03@gmail.com"
   }
 ]
 }
