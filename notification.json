@@ -1,18 +1,7 @@
-[ {
-  "heading":"heading 0",
-  "description":"Description",
-    "link":"link",
-    "date":"7/06/2022"
-  },
+[ 
   {
-  "heading":"heading 1",
-  "description":"Description",
-    "link":"link",
-    "date":"5/06/2022"
-  },
-  {
-  "heading":"suppy Registration Details",
-  "description":"Last date for B.Tech-Advance Supply Subjects Registration Details for student verification - R17-B.TECH -(4-2) sem-Supply-Examinations-AUG-2022 on or before 07/07/2022(5.00 PM)",
+  "heading":" Registration Details",
+  "description":"Last date for B.Tech-Advance Supply Subjects Registration Details ",
     "link":"link",
     "date":"5/06/2022"
   }
