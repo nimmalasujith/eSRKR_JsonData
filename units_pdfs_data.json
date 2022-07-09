@@ -1,14 +1,13 @@
 {
-"ECAD":[
-  {"unit1":[
-  {
-  "heading":"hello",
-  "description":"description",
-  "pdfName":"name",
-  "pdfSize":"3",
-  "pdfLink":""
+  "ECAD": {
+    "unit1": [
+      {
+        "heading": "hello",
+        "description": "description",
+        "pdfName": "name",
+        "pdfSize": "3",
+        "pdfLink": ""
+      }
+    ]
   }
-]
-}
-]
 }
