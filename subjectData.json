@@ -1,5 +1,10 @@
 {
   "ECAD":{
+     "description": "description",
+     "regulation": "R-20",
+     "units": "1,2,3,4,5",
+     "pdfs": "5",
+     "updated": "1/07/2022",
     "units":[
               {  "unitName":"unit-1",
                  "description":"description",
@@ -19,26 +24,6 @@
                     "description":"5th Edition"
                  }
                ]
-         },
-  "AC":{
-    "units":[
-              {  "unitName":"unit-1",
-                 "description":"description",
-                 "regulation":"R-20",
-                 "pdfs":"3",
-             }
-            ],
-    "textbooks":[
-                  {  "bookName":"",
-                     "author":"",
-                     "description":"5th Edition"
-                  }
-                ],
-    "refbooks":[
-                 {  "refbookName":"",
-                    "author":"",
-                    "description":"5th Edition"
-                 }
-               ]
          }
 }
+  
