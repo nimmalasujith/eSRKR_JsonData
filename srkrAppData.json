@@ -4,67 +4,18 @@
     "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
     "subjects": [
       {
-        "subjectName": "ECAD",
-        "description": "description",
-        "regulation": "R-20",
-        "units": "1,2,3,4,5",
-        "pdfs": "5",
-        "updated": "1/07/2022"
+        "subjectName": "ECAD"
       },
       {
-        "subjectName": "lDIC",
-        "description": "description",
-        "regulation": "R-20",
-        "units": "1,2,3,4,5",
-        "pdfs": "5",
-        "updated": "1/07/2022"
+        "subjectName": "lDIC"
       }
     ],
     "SubjectLink": "",
     "labSubjects": [
       {
-        "labSubjectName": "lDIC",
-        "description": "description",
-        "regulation": "R-20",
-        "expt": "1,2,3,4,5",
-        "pdfs": "5",
-        "updated": "1/07/2022"
+        "labSubjectName": "lDIC"
       }
     ],
-    "labSubjectLink": ""
-  },
-  {
-    "name": "CSE",
-    "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
-    "subjects": [
-      {
-        "subjectName": "ECAD",
-        "description": "description",
-        "regulation": "R-20",
-        "units": "1,2,3,4,5",
-        "pdfs": "5",
-        "updated": "1/07/2022"
-      },
-      {
-        "subjectName": "lDIC",
-        "description": "description",
-        "regulation": "R-20",
-        "units": "1,2,3,4,5",
-        "pdfs": "5",
-        "updated": "1/07/2022"
-      }
-    ],
-    "SubjectLink": "",
-    "labSubjects": [
-      {
-        "labSubjectName": "lDIC",
-        "description": "description",
-        "regulation": "R-20",
-        "expt": "1,2,3,4,5",
-        "pdfs": "5",
-        "updated": "1/07/2022"
-      }
-    ],
-    "labSubjectLink": ""
+    "labSubjectLink": "sd"
   }
 ]
