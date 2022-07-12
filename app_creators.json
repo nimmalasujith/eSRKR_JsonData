@@ -2,7 +2,7 @@
   "faculty":[
   {
   "email":"@123",
-  "imgUrl":"",
+  "imgUrl":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
   "name":"hello",
   "description1":"desp1",
   "description2":"desp2"
@@ -11,7 +11,7 @@
 "student":[
   {
   "email":"sujithnimmala03@gmail.com",
-  "imgUrl":"",
+  "imgUrl":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
   "name":"NIMMALA SUJITH",
   "description1":"R20-ECE-20B91A04H1",
   "description2":"APP DEV"
