@@ -1,21 +1,21 @@
 {
   "ECAD":{
     "units":[
-              {  "unitName":"unit-1",
+      {  "unitName":"unit-1",
                  "description":"description",
                  "regulation":"R-20",
-                 "pdfs":"3",
+                 "pdfs":"3"
               }
             ],
     "textbooks":[
-                  {  "bookName":"",
-                     "author":"",
+                  {  "bookName":"lhj",
+                     "author":"ljkhkl",
                      "description":"5th Edition"
                   }
                 ],
     "refbooks":[
-                 {  "refbookName":"",
-                    "author":"",
+                 {  "refbookName":"jkghkj",
+                    "author":"lkjhkkkkkk",
                     "description":"5th Edition"
                  }
                ]
