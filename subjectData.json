@@ -10,13 +10,15 @@
     "textbooks":[
                   {  "bookName":"lhj",
                      "author":"ljkhkl",
-                     "description":"5th Edition"
+                     "description":"5th Edition",
+                   "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
                   }
                 ],
     "refbooks":[
                  {  "refbookName":"jkghkj",
                     "author":"lkjhkkkkkk",
-                    "description":"5th Edition"
+                    "description":"5th Edition",
+                  "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
                  }
                ]
          },
@@ -31,13 +33,15 @@
     "textbooks":[
                   {  "bookName":"lj",
                      "author":"ljkl",
-                     "description":"5th Edition"
+                     "description":"5th Edition",
+                   "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
                   }
                 ],
     "refbooks":[
                  {  "refbookName":"jj",
                     "author":"lk",
-                    "description":"5th Edition"
+                    "description":"5th Edition",
+                  "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
                  }
                ]
          }
