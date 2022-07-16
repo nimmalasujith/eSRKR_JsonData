@@ -2,6 +2,27 @@
   {
     "name": "ECE",
     "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
+    "link":"https://nscreator.github.io/srkr/subjectDisplayInfo.json",
+    "subjects": [
+      {
+        "subjectName": "ECAD"
+      },
+      {
+        "subjectName": "lDIC"
+      }
+    ],
+    "SubjectLink": "",
+    "labSubjects": [
+      {
+        "labSubjectName": "lDIC"
+      }
+    ],
+    "labSubjectLink": "sd"
+  },
+  {
+    "name": "CSE",
+    "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
+    "link":"https://nscreator.github.io/srkr/subjectDisplayInfo.json",
     "subjects": [
       {
         "subjectName": "ECAD"
