@@ -19,6 +19,27 @@
                     "description":"5th Edition"
                  }
                ]
+         },
+  "AC":{
+    "units":[
+      {  "unitName":"unit-1",
+                 "description":"description",
+                 "regulation":"R-20",
+                 "pdfs":"3"
+              }
+            ],
+    "textbooks":[
+                  {  "bookName":"lhj",
+                     "author":"ljkhkl",
+                     "description":"5th Edition"
+                  }
+                ],
+    "refbooks":[
+                 {  "refbookName":"jkghkj",
+                    "author":"lkjhkkkkkk",
+                    "description":"5th Edition"
+                 }
+               ]
          }
 }
   
