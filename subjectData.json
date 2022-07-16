@@ -22,21 +22,21 @@
          },
   "AC":{
     "units":[
-      {  "unitName":"unit-1",
-                 "description":"description",
-                 "regulation":"R-20",
+      {  "unitName":"u1",
+                 "description":"desption",
+                 "regulation":"R-",
                  "pdfs":"3"
               }
             ],
     "textbooks":[
-                  {  "bookName":"lhj",
-                     "author":"ljkhkl",
+                  {  "bookName":"lj",
+                     "author":"ljkl",
                      "description":"5th Edition"
                   }
                 ],
     "refbooks":[
-                 {  "refbookName":"jkghkj",
-                    "author":"lkjhkkkkkk",
+                 {  "refbookName":"jj",
+                    "author":"lk",
                     "description":"5th Edition"
                  }
                ]
