@@ -2,7 +2,7 @@
   {
     "name": "ECE",
     "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
-    "classLink":["class":"2nd sem "],
+    "classLink":[{"class":"2nd sem "}],
     "subjects": [{"subjectName": "ECAD"},
                  {"subjectName": "lDIC"}
                 ],
