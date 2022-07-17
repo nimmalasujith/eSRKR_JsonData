@@ -9,7 +9,7 @@
     "subjectsLink":"https://nscreator.github.io/srkr/subjectDisplayInfo.json",
     "labSubjects": [{"labSubjectName": "lDIC"}
                    ],
-   "labSubjectsLink":"https://nscreator.github.io/srkr/labSubjectsInfo.json",
+   "labSubjectsLink":"https://nscreator.github.io/srkr/labSubjectsInfo.json"
   },
   {
     "name": "CSE",
