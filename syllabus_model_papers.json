@@ -1,7 +1,8 @@
 {
-  "2nd sem":[
-    "syllabus":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf",
-    "model papers":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-MODEL-PAPERS.pdf"
-  ] 
-
+  "ECE": {
+    "2nd sem": {
+      "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf",
+      "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-MODEL-PAPERS.pdf"
+    }
+  }
 }
