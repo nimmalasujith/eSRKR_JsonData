@@ -2,7 +2,10 @@
   {
     "name": "ECE",
     "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
-    "classLink":[{"class":"2nd sem "}],
+    "classLink":[{"class":"2nd sem ",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-MODEL-PAPERS.pdf"
+                 }],
     "subjects": [{"subjectName": "ECAD"},
                  {"subjectName": "lDIC"}
                 ],
