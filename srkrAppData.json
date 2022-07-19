@@ -102,22 +102,18 @@
       }
       
     ],
-    "subjectsLink": "https://nscreator.github.io/srkr/subjecisplayInfo.json",
-    "labSubjectsLink": "https://nscreator.github.io/srkr/bjectDisplayInfo.json",
+    "subjectsLink": "https://nscreator.github.io/srkr/subjectDisplayInfo.json",
     "subjects": [
       {
         "subjectName": "ECAD"
-      },
-      {
-        "subjectName": "lDIC"
       }
     ],
-    "SubjectLink": "",
+ "labSubjectsLink": "https://nscreator.github.io/srkr/labSubjectsInfo.json",
     "labSubjects": [
       {
         "labSubjectName": "lDIC"
       }
-    ],
-    "labSubjectLink": "sd"
+    ]
+    
   }
 ]
