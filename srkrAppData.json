@@ -52,13 +52,13 @@
         "subjectName": "lDIC"
       }
     ],
-    "subjectsLink": "https://nscreator.github.io/srkr/ece_subjects_info.jso",
+    "subjectsLink": "https://nscreator.github.io/srkr/ece_subjects_info.json",
     "labSubjects": [
       {
         "labSubjectName": "lDIC"
       }
     ],
-    "labSubjectsLink": "https://nscreator.github.io/srkr/ece_labSubjects_nfo.json"
+    "labSubjectsLink": "https://nscreator.github.io/srkr/ece_labSubjects_info.json"
   },
   {
     "name": "CSE",
