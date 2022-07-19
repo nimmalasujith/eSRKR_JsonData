@@ -66,9 +66,41 @@
     "classLink": [
       {
         "class": "R-20 1st year",
-        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/ECE-R20-Syllabus.pdf",
-        "model papers": "https://srkrec.edu.in/files/SYLLABUS/R20/R20-ECE-MODELPAPERS.pdf"
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/CSE-R20-Syllabus.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R20/R20-CSE-MODELPAPERS.pdf"
+      },
+      {
+        "class": "R-20 2nd year",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-CSE-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-CSE-MODEL-PAPERS.pdf"
+      },
+      {
+        "class": "R-19 1st year",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/SYLLABUS/R19-CSE-I-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/MODEL_PAPERS/R19-CSE-I-MODEL-PAPERS.pdf"
+      },
+      {
+        "class": "R-19 2nd year",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/SYLLABUS/R19-CSE-II-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/MODEL_PAPERS/R19-CSE-II-MODEL-PAPERS.pdf"
+      },{
+        "class": "R-19 3rd year",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/SYLLABUS/R19-CSE-III-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/MODEL_PAPERS/R19-CSE-III-MODEL-PAPERS.pdf"
+      },{
+        "class": "R-17 1-3 years",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/SYLLABUS/R17-CSE-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/MODEL_PAPERS/R17-CSE-MODEL-PAPERS.pdf"
+      },{
+        "class": "R-17 4th year",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/SYLLABUS/R17-IV-CSE-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/MODEL_PAPERS/R17-IV-CSE-MODEL-PAPERS.pdf"
+      },{
+        "class": "R-16",
+        "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R16/BTECH/SYLLABUS/R16-B.TECH-CSE-SYLLABUS.pdf",
+        "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R16/BTECH/MODEL_PAPERS/R16-B.TECH-CSE-MODEL-PAPERS.pdf"
       }
+      
     ],
     "subjectsLink": "https://nscreator.github.io/srkr/subjecisplayInfo.json",
     "labSubjectsLink": "https://nscreator.github.io/srkr/bjectDisplayInfo.json",
