@@ -45,6 +45,10 @@
   {
     "name": "CSE",
     "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
+    "classLink":[{"class":"R-20 1st year",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/ECE-R20-Syllabus.pdf",
+                  "model papers": "https://srkrec.edu.in/files/SYLLABUS/R20/R20-ECE-MODELPAPERS.pdf"
+                 }],
     "subjectsLink":"https://nscreator.github.io/srkr/subjecisplayInfo.json",
     "labSubjectsLink":"https://nscreator.github.io/srkr/bjectDisplayInfo.json",
     "subjects": [
