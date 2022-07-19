@@ -2,9 +2,37 @@
   {
     "name": "ECE",
     "imageLink":"https://drive.google.com/uc?export=view&id=1Mzx8ioES4Y10-xQqEIiQlMl09N8WDk-M",
-    "classLink":[{"class":"2nd sem ",
+    "classLink":[{"class":"R-20 1st year",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/ECE-R20-Syllabus.pdf",
+                  "model papers": "https://srkrec.edu.in/files/SYLLABUS/R20/R20-ECE-MODELPAPERS.pdf"
+                 },
+                {"class":"R-20 2nd year",
                   "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf",
                   "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-MODEL-PAPERS.pdf"
+                 },
+                {"class":"R-19 1st year",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/SYLLABUS/R19-ECE-I-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/MODEL_PAPERS/R19-ECE-I-MODEL-PAPERS.pdf"
+                 },
+                 {"class":"R-19 2nd year",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/SYLLABUS/R19-ECE-II-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/MODEL_PAPERS/R19-ECE-II-MODEL-PAPERS.pdf"
+                 },
+                 {"class":"R-19 3rd year",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/SYLLABUS/R19-ECE-III-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R19/BTECH/MODEL_PAPERS/R19-ECE-III-MODEL-PAPERS.pdf"
+                 },
+                {"class":"R-17 1-3 years",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/SYLLABUS/R17-B.TECH-ECE-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/MODEL_PAPERS/R17-B.TECH-ECE-MODEL-PAPERS.pdf"
+                 },
+                {"class":"R-17 4th year",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/SYLLABUS/R17-IV-ECE-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R17/BTECH/MODEL_PAPERS/R17-IV-ECE-MODEL-PAPERS.pdf"
+                 },
+                {"class":"R-16",
+                  "syllabus": "http://www.srkrec.edu.in/files/SYLLABUS/R16/BTECH/SYLLABUS/R16-B.TECH-ECE-SYLLABUS.pdf",
+                  "model papers": "http://www.srkrec.edu.in/files/SYLLABUS/R16/BTECH/MODEL_PAPERS/R16-B.TECH-ECE-MODEL-PAPERS.pdf"
                  }],
     "subjects": [{"subjectName": "ECAD"},
                  {"subjectName": "lDIC"}
