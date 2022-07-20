@@ -1,18 +1,18 @@
 [
   {
     "name":"ECAD",
-  "description": "description",
+  "description": "d",
      "regulation": "R-20",
      "expt": "1",
      "pdfs": "5",
-     "updated": "1/07/2022"
+     "updated": "1/2"
   },
   {
     "name":"AC",
-  "description": "description",
+  "description": "dn",
      "regulation": "R-20",
      "expt": "1",
      "pdfs": "5",
-     "updated": "1/07/2022"
+     "updated": "1/2"
   }
 ]
