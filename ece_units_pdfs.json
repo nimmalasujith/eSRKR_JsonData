@@ -10,24 +10,29 @@
       }
     ],
     "facultyChannels":[
+      
+    ],
+    "otherLinks":[
       {
-        "name":"channel name",
-        "TypeOfLink":"Youtube Link*",
-        "description":"about",
-        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-      },
-      {
-        "name":"channel name",
-        "TypeOfLink":"Youtube Link*",
-        "description":"about",
-        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-      },
-      {
-        "name":"channel name",
-        "TypeOfLink":"Youtube Link*",
-        "description":"about",
+         "name":"NS Ideas",
+        "TypeOfLink":"Youtube Link",
+        "description":"Projects",
         "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
       }
+    ]
+  },
+  "AC": {
+    "unit1": [
+      {
+        "heading": "hello",
+        "description": "description",
+        "pdfName": "name",
+        "pdfSize": "3",
+        "pdfLink": "'https://drive.google.com/uc?export=view&id=10h5DigYawkgbVYNgjzWA-AiOOpLyni4C'"
+      }
+    ],
+    "facultyChannels":[
+      
     ],
     "otherLinks":[
       {
