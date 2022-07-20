@@ -3,14 +3,17 @@
     "units": [
       {
         "heading": "hello",
-        "description": "description",
+        "description": "",
         "pdfName": "name",
         "pdfSize": "3",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=10h5DigYawkgbVYNgjzWA-AiOOpLyni4C"
+        "pdfLink": ""
       }
     ],
     "facultyChannels":[
-      
+      "name":"NSs",
+        "TypeOfLink":"Youtube Link",
+        "description":"Projects",
+        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
     ],
     "otherLinks":[
       {
@@ -23,9 +26,17 @@
   },
   "AC": {
     "units": [
+      "heading": "hello",
+        "description": "",
+        "pdfName": "name",
+        "pdfSize": "3",
+        "pdfLink": ""
     ],
     "facultyChannels":[
-      
+      "name":"NS ",
+        "TypeOfLink":"Yube Link",
+        "description":"Projects",
+        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
     ],
     "otherLinks":[
       {
