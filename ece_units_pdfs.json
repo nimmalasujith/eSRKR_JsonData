@@ -1,6 +1,6 @@
 {
   "ECAD": {
-    "unit1": [
+    "units": [
       {
         "heading": "hello",
         "description": "description",
@@ -22,7 +22,7 @@
     ]
   },
   "AC": {
-    "unit1": [
+    "units": [
       {
         "heading": "hello",
         "description": "description",
