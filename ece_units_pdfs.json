@@ -9,41 +9,47 @@
         "pdfLink": ""
       }
     ],
-    "facultyChannels":[
-      "name":"NSs",
-        "TypeOfLink":"Youtube Link",
-        "description":"Projects",
-        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-    ],
-    "otherLinks":[
+    "facultyChannels": [
       {
-         "name":"NS Ideas",
-        "TypeOfLink":"Youtube Link",
-        "description":"Projects",
-        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
+        "name": "NSs",
+        "TypeOfLink": "Youtube Link",
+        "description": "Projects",
+        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
+      }
+    ],
+    "otherLinks": [
+      {
+        "name": "NS Ideas",
+        "TypeOfLink": "Youtube Link",
+        "description": "Projects",
+        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
       }
     ]
   },
   "AC": {
     "units": [
-      "heading": "hello",
+      {
+        "heading": "hello",
         "description": "",
         "pdfName": "name",
         "pdfSize": "3",
         "pdfLink": ""
+      }
     ],
-    "facultyChannels":[
-      "name":"NS ",
-        "TypeOfLink":"Yube Link",
-        "description":"Projects",
-        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-    ],
-    "otherLinks":[
+    "facultyChannels": [
       {
-         "name":"NS Ideas",
-        "TypeOfLink":"Youtube Link",
-        "description":"Projects",
-        "link":"https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
+        "name": "NS ",
+        "TypeOfLink": "Yube Link",
+        "description": "Projects",
+        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
+      }
+    ],
+    "otherLinks": [
+      {
+        "name": "NS Ideas",
+        "TypeOfLink": "Youtube Link",
+        "description": "Projects",
+        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
       }
     ]
   }
