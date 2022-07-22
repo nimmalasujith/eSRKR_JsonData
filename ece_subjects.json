@@ -34,10 +34,10 @@
       }
             ],
     "textbooks":[
-                  {  "bookName":"lhj",
-                     "author":"ljkhkl",
-                     "description":"5th Edition",
-                   "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
+                  {  "bookName":"Electronic Devices and Circuits",
+                     "author":"Robert L Boylstead& Lewis Nashalsky",
+                     "description":"7th Edition",
+                   "link":"https://drive.google.com/uc?export=view&id=1jB53b9perukGVOM0H_Zgii7cqfv7kKRn"
                   }
                 ],
     "refbooks":[
