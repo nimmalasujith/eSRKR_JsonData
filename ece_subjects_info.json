@@ -8,6 +8,14 @@
     "updated": "22/07/2022"
   },
   {
+    "name":"CAO",
+    "description": "Computer Architecture and Organization ",
+    "regulation": "R-20",
+    "units": "1,2,3,4",
+    "pdfs": "4",
+    "updated": "22/07/2022"
+  },
+  {
     "name":"BE",
     "description": "Basic Electronics",
     "regulation": "R-20",
