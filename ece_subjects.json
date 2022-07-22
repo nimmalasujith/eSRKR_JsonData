@@ -46,7 +46,16 @@
                     "description":"5th Edition",
                   "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
                  }
-               ]
+               ],
+    "facultyChannels": [
+      {
+        "name": "NSs",
+        "TypeOfLink": "Youtube Link",
+        "description": "Projects",
+        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
+      }
+    ],
+    "otherLinks": []
          },
   "AC":{
     "units":[
