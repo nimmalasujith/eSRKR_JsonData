@@ -1,7 +1,13 @@
 {
-  "ECAD": {
+  "": {
     "units": [
-      
+      {
+        "heading": "Python Examples - 01",
+        "description": "Python program to add two numbers\nMaximum of two numbers in Python",
+        "pdfName": "python Record - 01",
+        "pdfSize": "38 KB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1ecEJtluiB0uIKRRDhaU1qS071hLZMTDP"
+      }
     ],
     "facultyChannels": [],
     "otherLinks": [
