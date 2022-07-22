@@ -1,11 +1,11 @@
 [
   {
-    "name":"ECAD",
-  "description": "d",
-     "regulation": "R-20",
+    "name":"Python",
+  "description": "Python Record Examples",
+     "regulation": "All",
      "expt": "1",
-     "pdfs": "5",
-     "updated": "1/2"
+     "pdfs": "2",
+     "updated": "22/7/2022"
   },
   {
     "name":"AC",
