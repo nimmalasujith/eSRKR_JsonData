@@ -99,6 +99,16 @@
     "refbooks":[],
      "facultyChannels": [],
     "otherLinks": []
+         },
+  "BE":{
+    "units":[],
+    "textbooks":[],
+    "refbooks":[{"refbookName":"Engineering Chemistry",
+                    "author":"Shikha Aharwal",
+                    "description":"Cambridge University\n2nd Edition ",
+                  "link":"https://drive.google.com/uc?export=view&id=1nEjpMty-tyuswGuVC6nNYcDH05dI1FY8"}],
+    "facultyChannels": [],
+    "otherLinks": []
          }
 }
   
