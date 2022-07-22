@@ -57,28 +57,18 @@
     ],
     "otherLinks": []
          },
-  "AC":{
+  "BE":{
     "units":[
-      {  "unitName":"u1",
-                 "description":"desption",
-                 "regulation":"R-",
-                 "pdfs":"3"
-              }
+      {
+        "heading": "Power Amplifiers and Tuned Voltage Amplifiers",
+        "description": " - Classification of Power Amplifiers\n - Series fed, Transformer coupled class-A and class-BPower amplifiers\n - Push Pull Class-A, Class-B and Class-AB Power Amplifiers\n - Cross-over Distortion in Pure Class-B Power Amplifier and Class-AB Power Amplifier-Trickle Bias, Derating Factor and Heat Sinks – Complementary Push Pull Amplifier\n - Analysis of Single tuned, Double tuned and Stagger Tuned Amplifiers with gain and Bandwidth Calculations",
+        "pdfName": "unit 4.pdf",
+        "pdfSize": "2.1 MB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1fy5NZkV3IPkQWlqh7Aa5MzABsG5rpoV8"
+      }
             ],
-    "textbooks":[
-                  {  "bookName":"lj",
-                     "author":"ljkl",
-                     "description":"5th Edition",
-                   "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
-                  }
-                ],
-    "refbooks":[
-                 {  "refbookName":"jj",
-                    "author":"lk",
-                    "description":"5th Edition",
-                  "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
-                 }
-               ]
+    "textbooks":[],
+    "refbooks":[]
          }
 }
   
