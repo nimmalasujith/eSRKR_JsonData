@@ -147,6 +147,38 @@
     "facultyChannels": [],
     "otherLinks": []
          },
+  "CAO":{
+    "units":[{
+        "heading": "Unit 1",
+        "description": "",
+        "pdfName": "CAO-1.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1somlMT1yBHY1h1JBiogCVUBw3n3oCpkG"
+      },{
+        "heading": "Unit 2",
+        "description": "",
+        "pdfName": "CAO-2.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1g52_URI4ds5GDibqIzbNUKXEdggU0q1u"
+      },{
+        "heading": "Unit 3",
+        "description": "",
+        "pdfName": "CAO-3.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI"
+      },{
+        "heading": "Unit 4",
+        "description": "",
+        "pdfName": "CAO-4.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI"
+      }
+            ],
+    "textbooks":[],
+    "refbooks":[],
+    "facultyChannels": [],
+    "otherLinks": []
+         }
   "CHTRY":{
     "units":[],
     "textbooks":[],
