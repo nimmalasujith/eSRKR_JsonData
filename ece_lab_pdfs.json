@@ -7,6 +7,13 @@
         "pdfName": "python Record - 01",
         "pdfSize": "38 KB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1ecEJtluiB0uIKRRDhaU1qS071hLZMTDP"
+      },
+      {
+        "heading": "Python Examples - 02",
+        "description": "Numpy\n - You are given a space separated list of numbers. Your task is to print a reversed NumPy array with the element type float\n - You are given a space separated list of nine integers. Your task is to convert this list into a 3X3 NumPy array\n - Basic mathematical operations- NumPy\nScipy\n - Compute pivoted LU decomposition of a matrix-SciPy\n - Single Integrals-SciPy\nMatplotlib\n - Draw a line in a diagram from position (0,0) to position (6,250)\n - plot\n - Scatter Plots\n - Bar  Plot\n - Histogram\n - Pie-chart",
+        "pdfName": "python Record - 02",
+        "pdfSize": "55 KB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1uE9ynbNHhC2IPFIINy_y0pfpX9xEYJ2a"
       }
     ],
     "facultyChannels": [],
