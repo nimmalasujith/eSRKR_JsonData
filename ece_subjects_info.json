@@ -9,7 +9,7 @@
   },
   {
     "name":"BE",
-    "description": "BE",
+    "description": "Basic Electronics",
     "regulation": "R-20",
     "units": "1,2,3,4,5",
     "pdfs": "5",
@@ -17,7 +17,7 @@
   },
   {
     "name":"CHEMISTRY",
-    "description": "APPLIED CHEMISTRY",
+    "description": "Applied Chemistry",
     "regulation": "R-20",
     "units": "Ref Book",
     "pdfs": "1",
