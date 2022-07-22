@@ -1,59 +1,10 @@
 [
   {
     "name":"ECAD",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
-  },
-  {
-    "name":"AC",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
-  },
-  {
-    "name":"AC",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
-  },
-  {
-    "name":"AC",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
-  }
-,
-  {
-    "name":"AC",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
-  },
-  {
-    "name":"AC",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
-  },
-  {
-    "name":"AC",
-  "description": "description",
-     "regulation": "R-20",
-     "units": "1,2,3,4,5",
-     "pdfs": "5",
-     "updated": "1/07/2022"
+    "description": "Electronic Circuit Analysis And Design",
+    "regulation": "R-20",
+    "units": "1,2,3,4",
+    "pdfs": "4",
+    "updated": "22/07/2022"
   }
 ]
