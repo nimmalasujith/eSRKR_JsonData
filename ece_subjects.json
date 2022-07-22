@@ -109,6 +109,50 @@
                   "link":"https://drive.google.com/uc?export=view&id=1W_cGwTJ7MBg7OKLugg3UIw7UaDWsUrsq"}],
     "facultyChannels": [ ],
     "otherLinks": []
+         },
+  "CHEMISTRY":{
+    "units":[{
+        "heading": "Unit 1",
+        "description": "-",
+        "pdfName": "BEE Unit 1.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1pnuACfm2JnE-u4NROGRV5VKf5_8lBcSb"
+      },{
+        "heading": "Unit 2",
+        "description": "-",
+        "pdfName": "BEE Unit 2.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=14DqaUCj0k15QN31Kc7v3zF4ZSXOfskcy"
+      },{
+        "heading": "Unit 3",
+        "description": "-",
+        "pdfName": "BEE Unit 3.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1YxbwgR1ntWcud5CSt7IqHPAPERK6nCmK"
+      },{
+        "heading": "Unit 4",
+        "description": "-",
+        "pdfName": "BEE Unit 4.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1OdI3Ji70B_kYlJ-qsiHn0T6sZDSL5Cuc"
+      },{
+        "heading": "Unit 5",
+        "description": "-",
+        "pdfName": "BEE Unit 5.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1ZeF1ReVPt3T9izhDgs72a4wZb1-B_r8g"
+      }],
+    "textbooks":[],
+    "refbooks":[],
+    "facultyChannels": [],
+    "otherLinks": []
+         },
+  "CHTRY":{
+    "units":[],
+    "textbooks":[],
+    "refbooks":[],
+    "facultyChannels": [],
+    "otherLinks": []
          }
 }
   
