@@ -1,12 +1,36 @@
 {
   "ECAD": {
-    "units": [
+    "unit-1": [
       {
-        "heading": "hello",
-        "description": "",
-        "pdfName": "name",
+        "heading": "Multistage Amplifiers",
+        "description": " - Transistor at high frequencies\n - CE short circuit current gain and concept of Gain Bandwidth product\n - BJT and FET RC coupled amplifiers at low and high frequencies\n - Frequency response and calculation of Bandwidth of Multistage Amplifiers",
+        "pdfName": "unit 1.pdf",
         "pdfSize": "3",
-        "pdfLink": ""
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1ThztJ3aKip2tLGTUpDokw9XMLzSR5dPg"
+      },
+      "unit-2": [
+      {
+        "heading": "Feedback Amplifiers",
+        "description": " - Concept of Feedback Amplifiers - Effect of Negative Feedback on the amplifier Characteristics\n - Four feedback topologies, Method of analysis of Voltage Series, Current Series, Voltage Shunt and Current Shunt feedback Amplifiers",
+        "pdfName": "unit 2.pdf",
+        "pdfSize": "2.7 MB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1O5PYV8S8hetvHhxkLXH3BFFSaoUJbRVU"
+      },
+       "unit-3": [
+      {
+        "heading": "Sinusoidal Oscillators",
+        "description": "Condition for oscillations and types of Oscillators\n – RC Oscillators: RC Phase Shift and Wien bridge Oscillators\n - LC Oscillators: Hartley, Colpitts, Clapp, Tuned Collector and Crystal Oscillators",
+        "pdfName": "unit 3.pdf",
+        "pdfSize": "2.9 MB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1Tm2FKg3wcvBDpp67dol7ah6XhegVJyBR"
+      },
+      "unit-4": [
+      {
+        "heading": "Power Amplifiers and Tuned Voltage Amplifiers",
+        "description": " - Classification of Power Amplifiers\n - Series fed, Transformer coupled class-A and class-BPower amplifiers\n - Push Pull Class-A, Class-B and Class-AB Power Amplifiers\n - Cross-over Distortion in Pure Class-B Power Amplifier and Class-AB Power Amplifier-Trickle Bias, Derating Factor and Heat Sinks – Complementary Push Pull Amplifier\n - Analysis of Single tuned, Double tuned and Stagger Tuned Amplifiers with gain and Bandwidth Calculations",
+        "pdfName": "unit 4.pdf",
+        "pdfSize": "2.1 MB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1fy5NZkV3IPkQWlqh7Aa5MzABsG5rpoV8"
       }
     ],
     "facultyChannels": [
@@ -17,14 +41,7 @@
         "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
       }
     ],
-    "otherLinks": [
-      {
-        "name": "NS Ideas",
-        "TypeOfLink": "Youtube Link",
-        "description": "Projects",
-        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-      }
-    ]
+    "otherLinks": []
   },
   "AC": {
     "units": [
