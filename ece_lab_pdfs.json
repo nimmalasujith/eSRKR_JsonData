@@ -32,6 +32,27 @@
         "pdfSize": "890 KB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
       },
+      {
+        "heading": "AC Software",
+        "description": " - frequency modulation and demodulation\n - fm using modulate and demod command\n - fm using fmmod and fmdemod command\n - pulse amplitude modulation",
+        "pdfName": "AC -02",
+        "pdfSize": "760 KB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1PeshS9EZPKpLnZAWgKE3lny-yxTnxDRz"
+      },
+      {
+        "heading": "AC Software",
+        "description": " - AM DSB modulation and demodulation (demodulation using synchronous detection)\n - AM DSB modulation and demodulation using modulate and demod command\n - AM DSB modulation and demodulation using ammod and amdemod commands\n - AM SSB modulation and demodulation (Lower side band)\n - AM SSB modulation and demodulation (Upper side band)\n - AM SSB modulation and demodulation using modulate and demod command",
+        "pdfName": "AC -03",
+        "pdfSize": "1.7 MB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1WVKlgF2soK3V2ePB7nSQcI2E4Fbzovs4OgIlKwB33Rc"
+      },
+      {
+        "heading": "AC Software",
+        "description": " - pulse width modulation\n - pulse phase modulation",
+        "pdfName": "AC -04",
+        "pdfSize": "336 KB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
+      }
     ],
     "facultyChannels": [],
     "otherLinks": [
