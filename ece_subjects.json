@@ -180,8 +180,35 @@
     "otherLinks": []
          },
   "CHTRY":{
-    "units":[],
-    "textbooks":[],
+    "units":[{
+        "heading": "Unit 1",
+        "description": "",
+        "pdfName": "LDIC-1.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1svq7gePqT-J-KMGHD7EK5tpuDZYlRivx"
+      },{
+        "heading": "Unit 2",
+        "description": "",
+        "pdfName": "LDIC-2.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=19fAwp3OTyYOiUdNpPht4GZ6kj-WwxJUW"
+      },{
+        "heading": "Unit 3",
+        "description": "",
+        "pdfName": "LDIC-3.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1zbqdyaZvsTWTKH8aYwIKbWFMmaByVtPL"
+      },{
+        "heading": "Unit 4",
+        "description": "",
+        "pdfName": "LDIC-4.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1U5uaGf0eQRPsJseCNdgH8Oavl-tac4Hg"
+      }],
+    "textbooks":[{ "bookName":"Linear Integrated Circuit",
+                     "author":"D. Roy Choudhury, Shail B. Jain",
+                     "description":"2th Edition",
+                   "link":"https://drive.google.com/uc?export=view&id=1DTAfGjrjCgeqFVdeNcPG9EczsPkXt3Js"}],
     "refbooks":[],
     "facultyChannels": [],
     "otherLinks": []
