@@ -6,5 +6,13 @@
     "units": "1,2,3,4",
     "pdfs": "4",
     "updated": "22/07/2022"
+  },
+  {
+    "name":"BE",
+    "description": "BE",
+    "regulation": "R-20",
+    "units": "1,2,3,4,5",
+    "pdfs": "5",
+    "updated": "22/07/2022"
   }
 ]
