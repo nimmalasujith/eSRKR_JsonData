@@ -8,6 +8,20 @@
     "updated": "22/07/2022"
   },
   {
+    "name":"DLD",
+    "description": "Digital Logic Design",
+    "regulation": "R-20",
+    "units": "1",
+    "pdfs": "0",
+    "updated": "22/07/2022"
+  },{
+    "name":"LDIC",
+    "description": "Linear and Digital IC Applications",
+    "regulation": "R-20",
+    "units": "1",
+    "pdfs": "0",
+    "updated": "22/07/2022"
+  },{
     "name":"CAO",
     "description": "Computer Architecture and Organization ",
     "regulation": "R-20",
