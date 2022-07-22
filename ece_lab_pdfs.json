@@ -25,7 +25,13 @@
   },
   "AC": {
     "units": [
-      
+      {
+        "heading": "AC Software",
+        "description": "Demodulation\n - using butterworth filter\n - USING modulate and demod command\n - USING ammod and amdemod command",
+        "pdfName": "AC -01",
+        "pdfSize": "890 KB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
+      },
     ],
     "facultyChannels": [],
     "otherLinks": [
