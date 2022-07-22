@@ -2,17 +2,17 @@
   {
     "name":"Python",
   "description": "Python Record Examples",
-     "regulation": "All",
-     "expt": "1",
+     "regulation": "R-20",
+     "expt": "13",
      "pdfs": "2",
      "updated": "22/7/2022"
   },
   {
     "name":"AC",
-  "description": "dn",
+  "description": "Analog Communication",
      "regulation": "R-20",
-     "expt": "1",
-     "pdfs": "5",
-     "updated": "1/2"
+     "expt": "5",
+     "pdfs": "4",
+     "updated": "22/7/2022"
   }
 ]
