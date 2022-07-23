@@ -115,32 +115,32 @@
          },
   "BEE":{
     "units":[{
-        "heading": "Unit 1",
-       "description": "",
-        "pdfName": "BEE Unit 1.pdf",
+        "heading": "D.C Machines",
+       "description": " - Principle of operation and construction of DC generator – EMF equation – types of DC machines – OCC of DC shunt generator - Torque equation of DC motor - applications – losses and efficiency - Brake test- Swinburne’s test - speed control of DC shunt motorSimple Problems. ",
+        "pdfName": "BEE Unit 1.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1pnuACfm2JnE-u4NROGRV5VKf5_8lBcSb"
       },{
-        "heading": "Unit 2",
-        "description": "",
-        "pdfName": "BEE Unit 2.pdf",
+        "heading": "Introduction to AC Circuits",
+        "description": " - Representation of sinusoidal waveforms - Peak, Average and RMS values - Phasor representation - power factor - Analysis of single-phase ac circuits consisting of pure resistor, pure inductor, pure capacitor, R-L, R-C, RLC series circuits-instantaneous powerreal power - reactive power - apparent power",
+        "pdfName": "BEE Unit 2.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=14DqaUCj0k15QN31Kc7v3zF4ZSXOfskcy"
       },{
-        "heading": "Unit 3",
-        "description": "",
-        "pdfName": "BEE Unit 3.pdf",
+        "heading": "Transformers",
+        "description": " - Principle of operation of Single-Phase Transformer – EMF equation - Losses and efficiency of transformer- Regulation of transformer- OC and SC tests on single phase transformerPredetermination of efficiency and regulation -Simple Problems",
+        "pdfName": "BEE Unit 3.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1YxbwgR1ntWcud5CSt7IqHPAPERK6nCmK"
       },{
-        "heading": "Unit 4",
-        "description": "",
-        "pdfName": "BEE Unit 4.pdf",
+        "heading": "Induction Machines",
+        "description": " - Principle of operation and construction of three phase Induction Motors- slip ring and squirrel cage motors-Torque Equation - Torque-Slip Characteristics- Brake test on three phase Induction motor- Simple Problems.",
+        "pdfName": "BEE Unit 4.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1OdI3Ji70B_kYlJ-qsiHn0T6sZDSL5Cuc"
       },{
-        "heading": "Unit 5",
-        "description": "",
+        "heading": "Synchronous Machines",
+        "description": " - Principle of operation and construction of Alternators –Types of Alternators-EMF equation of three phase Alternator - Regulation of Alternator by Synchronous impedance method.\n - Principle of operation and construction of Synchronous Motor- Starting methods of Synchronous motor.",
         "pdfName": "BEE Unit 5.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1ZeF1ReVPt3T9izhDgs72a4wZb1-B_r8g"
