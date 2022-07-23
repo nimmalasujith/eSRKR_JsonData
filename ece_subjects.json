@@ -95,7 +95,10 @@
         "pdfLink": "https://drive.google.com/uc?export=view&id=1i9i-wTWqGm936oc_J_PmyVXCK0gujU3z"
       }
             ],
-    "textbooks":[],
+    "textbooks":[{"bookName":"Electronic Principles",
+                     "author":"Albert Paul Malvino",
+                     "description":"7th Edition",
+                   "link":"https://drive.google.com/uc?export=view&id=1hT7Q3IEDr5sn12b-F4Xubqujmji1YAsv"}],
     "refbooks":[],
      "facultyChannels": [],
     "otherLinks": []
