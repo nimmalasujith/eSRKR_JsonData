@@ -74,22 +74,22 @@
         "pdfLink": "https://drive.google.com/uc?export=view&id=1VvEBw6MkVkkOFIndHw-vqDDoItNFXppX"
       },
       {
-        "heading": "Unit 3",
-        "description": "",
+        "heading": "Fundamentals of P-N Junction Diode and Special Diodes",
+        "description": " - Elementary concepts, Forward and reverse biased P-N junction, V-I characteristics, Linear piecewise model, DC load line, Applications of PN junction diode, Varactor diode, Zener diode, LED, Photo diode\n - Diode as a Rectifier: Half wave, Full wave rectifiers, PIV, DC voltage and current, Ripple factor, Efficiency, Capacitor filter, Zener diode as a voltage regulator",
         "pdfName": "BE Unit 3.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=18SZF-RH98k-1aG9H5d7OW8axssZXqpEJ"
       },
       {
-        "heading": "Unit 4",
-        "description": "",
+        "heading": "Fundamentals of Transistors and Integrated Circuits (IC)",
+        "description": " - Bipolar Junction Transistor (BJT) construction and Basic operation, Active, Cut-off, Saturation modes of operation, CB, CE and CC configurations, Input and Output characteristics, Early effect, Transistor as an Amplifier and a Switch, Comparison of three configurations, Advantages of FET over BJT, Junction-Field Effect Transistor (JFET) Operation,\n - Introduction to Integrated Circuits: Classification of ICs and Fabrication of Monolithic ICs. ",
         "pdfName": "BE Unit 4.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1yooGfUS1P5I00NSxNV2UUxRWuON0jk8q"
       },
       {
-        "heading": "Unit 5",
-        "description": "",
+        "heading": "Digital Electronics (Introductory level only)",
+        "description": " - Difference between analog and digital signals, Number Systems: Binary, Decimal, Octal, Hexa-Decimal number systems and Conversions among them, Logic Gates: AND, OR, NOT, XOR, NAND and NOR\n -  Half and Full adder/subtractor, Latches and Flip Flops: SR, JK, T, D flip-flops",
         "pdfName": "BE Unit 5.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1i9i-wTWqGm936oc_J_PmyVXCK0gujU3z"
