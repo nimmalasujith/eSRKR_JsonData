@@ -16,10 +16,7 @@
         "pdfLink": "https://drive.google.com/uc?export=view&id=1uE9ynbNHhC2IPFIINy_y0pfpX9xEYJ2a"
       }
     ],
-    "facultyChannels": [ { "name": "NS Ideas",
-        "TypeOfLink": "Youtube Link",
-        "description": "Projects",
-        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"}],
+    "facultyChannels": [],
     "otherLinks": [
     ]
   },
@@ -55,13 +52,6 @@
       }
     ],
     "facultyChannels": [],
-    "otherLinks": [
-      {
-        "name": "NS Ideas",
-        "TypeOfLink": "Youtube Link",
-        "description": "Projects",
-        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-      }
-    ]
+    "otherLinks": []
   }
 }
