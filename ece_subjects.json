@@ -48,13 +48,7 @@
                  }
                ],
     "facultyChannels": [
-      {
-        "name": "NSs",
-        "TypeOfLink": "Youtube Link",
-        "description": "Projects",
-        "link": "https://www.youtube.com/channel/UCcFrrU5HatzM6JNuQAjw-Ew"
-      }
-    ],
+          ],
     "otherLinks": []
          },
   "BE":{
@@ -184,26 +178,26 @@
          },
   "LDIC":{
     "units":[{
-        "heading": "Unit 1",
-        "description": "",
+        "heading": "applications of operational amplifiers",
+        "description": " - Basics of Op-Amp, Block Diagram, Ideal characteristics, op-amp parameters, open loop, and closed loop op-amp configurations, Applications of op-amp- summing amplifier, subtractor, Basic Integrator, Basic differentiator, Logarithmic amplifier\n -  Instrumentation Amplifiers, Op-amp As a Comparators, Schmitt trigger, square wave generator",
         "pdfName": "LDIC-1.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1svq7gePqT-J-KMGHD7EK5tpuDZYlRivx"
       },{
-        "heading": "Unit 2",
-        "description": "",
+        "heading": "active filters and oscillators",
+        "description": " - Butterworth type LPF, HPF first and secondorder filters, Higher order filters, Wide Band pass filters, Wide band reject filter, All pass filters. OpAmp Phase Shift oscillator, Wein-bridge oscillator, Quadrature Oscillator, voltagecontrolled oscillators, Voltage to current and current to voltage converters",
         "pdfName": "LDIC-2.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=19fAwp3OTyYOiUdNpPht4GZ6kj-WwxJUW"
       },{
-        "heading": "Unit 3",
-        "description": "",
+        "heading": "Special Ics",
+        "description": " - Introduction, Block diagram, 555 timer as an Astable and Monostable Multivibrator, Applications of 555 Timer as Monostable multivibrator- Frequency divider, Pulse stretcher, Missing pulse detector, Linear ramp generator, Pulse width modulation, Applications of 555 Timer as Astable Multivibrator- Square wave oscillator, FSK Generator, Schmitt trigger.\n - IC 565: Block diagram of PLL and applications of PLL \n - IC 566 : Functional diagram of voltage controlled oscillator (IC 565) ",
         "pdfName": "LDIC-3.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1zbqdyaZvsTWTKH8aYwIKbWFMmaByVtPL"
       },{
-        "heading": "Unit 4",
-        "description": "",
+        "heading": "D to A and A to D CONVERTERS",
+        "description": "Introduction, basic DAC techniques – weighted resistor DAC, R-2R ladder DAC, inverted R-2R DAC, A to D converters - parallel comparator type ADC, counter type ADC, successive approximation ADC and dual slope ADC, DAC and ADC Specifications",
         "pdfName": "LDIC-4.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1U5uaGf0eQRPsJseCNdgH8Oavl-tac4Hg"
@@ -215,6 +209,26 @@
     "refbooks":[],
     "facultyChannels": [],
     "otherLinks": []
+         }
+  ,
+  "Example":{
+    "units":[{
+        "heading": "",
+        "description": "",
+        "pdfName": "",
+        "pdfSize": "",
+        "pdfLink": "https://drive.google.com/uc?export=view&id="
+      } ],
+    "textbooks":[{ "bookName":"",
+                     "author":"",
+                     "description":"",
+                   "link":"https://drive.google.com/uc?export=view&id="}],
+    "refbooks":[],
+    "facultyChannels": [],
+    "otherLinks": [{"name": "",
+        "TypeOfLink": "",
+        "description": "",
+        "link": "https://www.youtube.com/channel/"}]
          }
 }
   
