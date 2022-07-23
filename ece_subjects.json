@@ -41,11 +41,7 @@
                   }
                 ],
     "refbooks":[
-                 {  "refbookName":"jkghkj",
-                    "author":"lkjhkkkkkk",
-                    "description":"5th Edition",
-                  "link":"http://www.srkrec.edu.in/files/SYLLABUS/R20/II-R20-ECE-SYLLABUS.pdf"
-                 }
+                 
                ],
     "facultyChannels": [
           ],
@@ -146,29 +142,29 @@
          },
   "CAO":{
     "units":[{
-        "heading": "Unit 1",
-        "description": "",
+        "heading": "Register Transfer and Micro operations",
+        "description": " - Register Transfer Language, Register Transfer, Bus and Memory Transfers, Arithmetic Micro operations, Logic Micro operations, Shift Micro operations, Arithmetic Logic Shift Unit. ",
         "pdfName": "CAO-1.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1somlMT1yBHY1h1JBiogCVUBw3n3oCpkG"
       },{
-        "heading": "Unit 2",
-        "description": "",
+        "heading": "Basic Computer Organization",
+        "description": " - Instruction Codes, Computer Registers, Computer Instructions, Timing and Control, Instruction Cycle, Memory Reference Instructions, Input - Output and Interrupt, Complete Computer Description",
         "pdfName": "CAO-2.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1g52_URI4ds5GDibqIzbNUKXEdggU0q1u"
       },{
-        "heading": "Unit 3",
-        "description": "",
+        "heading": "Micro programmed Control & CPU Organization",
+        "description": "Micro programmed Control\n - Control Memory, Address Sequencing, Microinstruction Formats, Microprogram Example and Design of Control Unit.\nCPU Organization:\n - Introduction, General Register Organization, Stack Organization Instruction Formats, Addressing Modes, Data Transfer and Manipulation, Program Control, Reduced Instruction Set Computer (RISC).",
         "pdfName": "CAO-3.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI"
       },{
-        "heading": "Unit 4",
-        "description": "",
+        "heading": "Input – Output Organization & Introduction to Pipelining",
+        "description": "Peripheral Devices, Input - Output Interface, Asynchronous Data Transfer, Modes of Transfer, Priority Interrupt, Direct Memory Access (DMA), Input- Output processor, CPUIOP communication, Parallel Processing, Introduction to pipelining",
         "pdfName": "CAO-4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI"
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1Dqn4MNyXZzvemboxmL4X5O-gbqTRkfFO"
       }
             ],
     "textbooks":[],
@@ -223,7 +219,11 @@
                      "author":"",
                      "description":"",
                    "link":"https://drive.google.com/uc?export=view&id="}],
-    "refbooks":[],
+    "refbooks":[{  "refbookName":"",
+                    "author":"",
+                    "description":"5th Edition",
+                  "link":""
+                 }],
     "facultyChannels": [],
     "otherLinks": [{"name": "",
         "TypeOfLink": "",
