@@ -60,17 +60,17 @@
   "BE":{
     "units":[
       {
-        "heading": "unit 1",
-        "description": "",
-        "pdfName": "BE Unit 1.pdf",
+        "heading": "Basic Circuit Theory & Measuring Instruments",
+        "description": " - Independent DC & AC sources, Passive and active circuit components, Resistors, Inductors,Capacitors, V-I relationships, Series and parallel connections, Resistance, Reactance,Impedance, KVL, KCL, Concept of charging and discharging, Frequency response of a 1st order RC circuit\n - Basics of Voltmeter, Ammeter and Multimeter, Basics of CRO: Functional block diagram, Operation, Measurement of voltage and current amplitude along with frequency",
+        "pdfName": "BE Unit 1.ppt",
         "pdfSize": "1.58 MB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1sCeSs-G5mcCTiwNiIPLyyu2pdmivKIKj"
       },
       {
-        "heading": "Unit 2",
-        "description": "",
-        "pdfName": "BE Unit 2.pdf",
-        "pdfSize": "",
+        "heading": "Semiconductor Materials and Properties",
+        "description": " - Energy band theory of solids, Classification of Materials, Fermi-level, Intrinsic and Extrinsic semiconductors, P-type and N-type semiconductors, Mobility and conductivity, Dependence of conductivity on temperature, Charge densities, Drift and diffusion currents and their densities, Hall effect",
+        "pdfName": "BE Unit 2.ppt",
+        "pdfSize": "1.5 MB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1VvEBw6MkVkkOFIndHw-vqDDoItNFXppX"
       },
       {
