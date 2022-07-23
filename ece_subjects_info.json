@@ -4,14 +4,30 @@
     "description": "Electronic Circuit Analysis And Design",
     "regulation": "R-20",
     "units": "1,2,3,4",
-    "pdfs": "4",
+    "pdfs": "5",
     "updated": "22/07/2022"
   },{
     "name":"LDIC",
     "description": "Linear and Digital IC Applications",
     "regulation": "R-20",
-    "units": "1",
-    "pdfs": "0",
+    "units": "1,2,3,4",
+    "pdfs": "5",
+    "updated": "22/07/2022"
+  },
+  {
+    "name":"BE",
+    "description": "Basic Electronics",
+    "regulation": "R-20",
+    "units": "1,2,3,4,5",
+    "pdfs": "6",
+    "updated": "22/07/2022"
+  },
+  {
+    "name":"BEE",
+    "description": "Basic Electrical Engineering",
+    "regulation": "R-20",
+    "units": "1,2,3,4,5",
+    "pdfs": "5",
     "updated": "22/07/2022"
   },{
     "name":"CAO",
@@ -22,27 +38,11 @@
     "updated": "22/07/2022"
   },
   {
-    "name":"BE",
-    "description": "Basic Electronics",
-    "regulation": "R-20",
-    "units": "1,2,3,4,5",
-    "pdfs": "5",
-    "updated": "22/07/2022"
-  },
-  {
     "name":"CHEMISTRY",
     "description": "Applied Chemistry",
     "regulation": "R-20",
     "units": "Ref Book",
     "pdfs": "1",
-    "updated": "22/07/2022"
-  },
-  {
-    "name":"BEE",
-    "description": "Basic Electrical Engineering",
-    "regulation": "R-20",
-    "units": "1,2,3,4,5",
-    "pdfs": "5",
     "updated": "22/07/2022"
   }
 ]
