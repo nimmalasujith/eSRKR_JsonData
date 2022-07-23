@@ -3,7 +3,7 @@
     "name":"Python",
   "description": "Python Record Examples",
      "regulation": "R-20",
-     "expt": "13",
+     "expt": "N/A",
      "pdfs": "2",
      "updated": "22/7/2022"
   },
@@ -11,7 +11,7 @@
     "name":"AC",
   "description": "Analog Communication",
      "regulation": "R-20",
-     "expt": "5",
+     "expt": "N/A",
      "pdfs": "4",
      "updated": "22/7/2022"
   }
