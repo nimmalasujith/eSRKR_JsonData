@@ -1,6 +1,6 @@
 {
-  "ECAD":{
-    "units":[
+  "ECAD": {
+    "units": [
       {
         "heading": "Multistage Amplifiers",
         "description": " - Transistor at high frequencies\n - CE short circuit current gain and concept of Gain Bandwidth product\n - BJT and FET RC coupled amplifiers at low and high frequencies\n - Frequency response and calculation of Bandwidth of Multistage Amplifiers",
@@ -8,7 +8,6 @@
         "pdfSize": "3 MB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1ThztJ3aKip2tLGTUpDokw9XMLzSR5dPg"
       },
-     
       {
         "heading": "Feedback Amplifiers",
         "description": " - Concept of Feedback Amplifiers - Effect of Negative Feedback on the amplifier Characteristics\n - Four feedback topologies, Method of analysis of Voltage Series, Current Series, Voltage Shunt and Current Shunt feedback Amplifiers",
@@ -16,7 +15,6 @@
         "pdfSize": "2.7 MB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1O5PYV8S8hetvHhxkLXH3BFFSaoUJbRVU"
       },
-     
       {
         "heading": "Sinusoidal Oscillators",
         "description": "Condition for oscillations and types of Oscillators\n – RC Oscillators: RC Phase Shift and Wien bridge Oscillators\n - LC Oscillators: Hartley, Colpitts, Clapp, Tuned Collector and Crystal Oscillators",
@@ -24,7 +22,6 @@
         "pdfSize": "2.9 MB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1Tm2FKg3wcvBDpp67dol7ah6XhegVJyBR"
       },
-      
       {
         "heading": "Power Amplifiers and Tuned Voltage Amplifiers",
         "description": " - Classification of Power Amplifiers\n - Series fed, Transformer coupled class-A and class-BPower amplifiers\n - Push Pull Class-A, Class-B and Class-AB Power Amplifiers\n - Cross-over Distortion in Pure Class-B Power Amplifier and Class-AB Power Amplifier-Trickle Bias, Derating Factor and Heat Sinks – Complementary Push Pull Amplifier\n - Analysis of Single tuned, Double tuned and Stagger Tuned Amplifiers with gain and Bandwidth Calculations",
@@ -32,23 +29,21 @@
         "pdfSize": "2.1 MB",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1fy5NZkV3IPkQWlqh7Aa5MzABsG5rpoV8"
       }
-            ],
-    "textbooks":[
-                  {  "bookName":"Electronic Devices and Circuits",
-                     "author":"Robert L Boylstead& Lewis Nashalsky",
-                     "description":"7th Edition",
-                   "link":"https://drive.google.com/uc?export=view&id=1jB53b9perukGVOM0H_Zgii7cqfv7kKRn"
-                  }
-                ],
-    "refbooks":[
-                 
-               ],
-    "facultyChannels": [
-          ],
+    ],
+    "textbooks": [
+      {
+        "bookName": "Electronic Devices and Circuits",
+        "author": "Robert L Boylstead& Lewis Nashalsky",
+        "description": "7th Edition",
+        "link": "https://drive.google.com/uc?export=view&id=1jB53b9perukGVOM0H_Zgii7cqfv7kKRn"
+      }
+    ],
+    "refbooks": [],
+    "facultyChannels": [],
     "otherLinks": []
-         },
-  "BE":{
-    "units":[
+  },
+  "BE": {
+    "units": [
       {
         "heading": "Basic Circuit Theory & Measuring Instruments",
         "description": " - Independent DC & AC sources, Passive and active circuit components, Resistors, Inductors,Capacitors, V-I relationships, Series and parallel connections, Resistance, Reactance,Impedance, KVL, KCL, Concept of charging and discharging, Frequency response of a 1st order RC circuit\n - Basics of Voltmeter, Ammeter and Multimeter, Basics of CRO: Functional block diagram, Operation, Measurement of voltage and current amplitude along with frequency",
@@ -84,151 +79,232 @@
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1i9i-wTWqGm936oc_J_PmyVXCK0gujU3z"
       }
-            ],
-    "textbooks":[{"bookName":"Electronic Principles",
-                     "author":"Albert Paul Malvino",
-                     "description":"7th Edition",
-                   "link":"https://drive.google.com/uc?export=view&id=1hT7Q3IEDr5sn12b-F4Xubqujmji1YAsv"}],
-    "refbooks":[],
-     "facultyChannels": [],
+    ],
+    "textbooks": [
+      {
+        "bookName": "Electronic Principles",
+        "author": "Albert Paul Malvino",
+        "description": "7th Edition",
+        "link": "https://drive.google.com/uc?export=view&id=1hT7Q3IEDr5sn12b-F4Xubqujmji1YAsv"
+      }
+    ],
+    "refbooks": [],
+    "facultyChannels": [],
     "otherLinks": []
-         },
-  "CHEMISTRY":{
-    "units":[],
-    "textbooks":[],
-    "refbooks":[{"refbookName":"Engineering Chemistry",
-                    "author":"Shikha Aharwal",
-                    "description":"Cambridge University\n      2nd Edition ",
-                  "link":"https://drive.google.com/uc?export=view&id=1W_cGwTJ7MBg7OKLugg3UIw7UaDWsUrsq"}],
-    "facultyChannels": [ ],
+  },
+  "CHEMISTRY": {
+    "units": [],
+    "textbooks": [],
+    "refbooks": [
+      {
+        "refbookName": "Engineering Chemistry",
+        "author": "Shikha Aharwal",
+        "description": "Cambridge University\n      2nd Edition ",
+        "link": "https://drive.google.com/uc?export=view&id=1W_cGwTJ7MBg7OKLugg3UIw7UaDWsUrsq"
+      }
+    ],
+    "facultyChannels": [],
     "otherLinks": []
-         },
-  "BEE":{
-    "units":[{
+  },
+  "BEE": {
+    "units": [
+      {
         "heading": "D.C Machines",
-       "description": " - Principle of operation and construction of DC generator – EMF equation – types of DC machines – OCC of DC shunt generator - Torque equation of DC motor - applications – losses and efficiency - Brake test- Swinburne’s test - speed control of DC shunt motorSimple Problems. ",
+        "description": " - Principle of operation and construction of DC generator – EMF equation – types of DC machines – OCC of DC shunt generator - Torque equation of DC motor - applications – losses and efficiency - Brake test- Swinburne’s test - speed control of DC shunt motorSimple Problems. ",
         "pdfName": "BEE Unit 1.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1pnuACfm2JnE-u4NROGRV5VKf5_8lBcSb"
-      },{
+      },
+      {
         "heading": "Introduction to AC Circuits",
         "description": " - Representation of sinusoidal waveforms - Peak, Average and RMS values - Phasor representation - power factor - Analysis of single-phase ac circuits consisting of pure resistor, pure inductor, pure capacitor, R-L, R-C, RLC series circuits-instantaneous powerreal power - reactive power - apparent power",
         "pdfName": "BEE Unit 2.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=14DqaUCj0k15QN31Kc7v3zF4ZSXOfskcy"
-      },{
+      },
+      {
         "heading": "Transformers",
         "description": " - Principle of operation of Single-Phase Transformer – EMF equation - Losses and efficiency of transformer- Regulation of transformer- OC and SC tests on single phase transformerPredetermination of efficiency and regulation -Simple Problems",
         "pdfName": "BEE Unit 3.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1YxbwgR1ntWcud5CSt7IqHPAPERK6nCmK"
-      },{
+      },
+      {
         "heading": "Induction Machines",
         "description": " - Principle of operation and construction of three phase Induction Motors- slip ring and squirrel cage motors-Torque Equation - Torque-Slip Characteristics- Brake test on three phase Induction motor- Simple Problems.",
         "pdfName": "BEE Unit 4.ppt",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1OdI3Ji70B_kYlJ-qsiHn0T6sZDSL5Cuc"
-      },{
+      },
+      {
         "heading": "Synchronous Machines",
         "description": " - Principle of operation and construction of Alternators –Types of Alternators-EMF equation of three phase Alternator - Regulation of Alternator by Synchronous impedance method.\n - Principle of operation and construction of Synchronous Motor- Starting methods of Synchronous motor.",
         "pdfName": "BEE Unit 5.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1ZeF1ReVPt3T9izhDgs72a4wZb1-B_r8g"
-      }],
-    "textbooks":[],
-    "refbooks":[],
+      }
+    ],
+    "textbooks": [],
+    "refbooks": [],
     "facultyChannels": [],
     "otherLinks": []
-         },
-  "CAO":{
-    "units":[{
+  },
+  "CAO": {
+    "units": [
+      {
         "heading": "Register Transfer and Micro operations",
         "description": " - Register Transfer Language, Register Transfer, Bus and Memory Transfers, Arithmetic Micro operations, Logic Micro operations, Shift Micro operations, Arithmetic Logic Shift Unit. ",
         "pdfName": "CAO-1.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1somlMT1yBHY1h1JBiogCVUBw3n3oCpkG"
-      },{
+      },
+      {
         "heading": "Basic Computer Organization",
         "description": " - Instruction Codes, Computer Registers, Computer Instructions, Timing and Control, Instruction Cycle, Memory Reference Instructions, Input - Output and Interrupt, Complete Computer Description",
         "pdfName": "CAO-2.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1g52_URI4ds5GDibqIzbNUKXEdggU0q1u"
-      },{
+      },
+      {
         "heading": "Micro programmed Control & CPU Organization",
         "description": "Micro programmed Control\n - Control Memory, Address Sequencing, Microinstruction Formats, Microprogram Example and Design of Control Unit.\nCPU Organization:\n - Introduction, General Register Organization, Stack Organization Instruction Formats, Addressing Modes, Data Transfer and Manipulation, Program Control, Reduced Instruction Set Computer (RISC).",
         "pdfName": "CAO-3.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI"
-      },{
+      },
+      {
         "heading": "Input – Output Organization & Introduction to Pipelining",
         "description": "Peripheral Devices, Input - Output Interface, Asynchronous Data Transfer, Modes of Transfer, Priority Interrupt, Direct Memory Access (DMA), Input- Output processor, CPUIOP communication, Parallel Processing, Introduction to pipelining",
         "pdfName": "CAO-4.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1Dqn4MNyXZzvemboxmL4X5O-gbqTRkfFO"
       }
-            ],
-    "textbooks":[],
-    "refbooks":[],
+    ],
+    "textbooks": [],
+    "refbooks": [],
     "facultyChannels": [],
     "otherLinks": []
-         },
-  "LDIC":{
-    "units":[{
+  },
+  "LDIC": {
+    "units": [
+      {
         "heading": "applications of operational amplifiers",
         "description": " - Basics of Op-Amp, Block Diagram, Ideal characteristics, op-amp parameters, open loop, and closed loop op-amp configurations, Applications of op-amp- summing amplifier, subtractor, Basic Integrator, Basic differentiator, Logarithmic amplifier\n -  Instrumentation Amplifiers, Op-amp As a Comparators, Schmitt trigger, square wave generator",
         "pdfName": "LDIC-1.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1svq7gePqT-J-KMGHD7EK5tpuDZYlRivx"
-      },{
+      },
+      {
         "heading": "active filters and oscillators",
         "description": " - Butterworth type LPF, HPF first and secondorder filters, Higher order filters, Wide Band pass filters, Wide band reject filter, All pass filters. OpAmp Phase Shift oscillator, Wein-bridge oscillator, Quadrature Oscillator, voltagecontrolled oscillators, Voltage to current and current to voltage converters",
         "pdfName": "LDIC-2.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=19fAwp3OTyYOiUdNpPht4GZ6kj-WwxJUW"
-      },{
+      },
+      {
         "heading": "Special Ics",
         "description": " - Introduction, Block diagram, 555 timer as an Astable and Monostable Multivibrator, Applications of 555 Timer as Monostable multivibrator- Frequency divider, Pulse stretcher, Missing pulse detector, Linear ramp generator, Pulse width modulation, Applications of 555 Timer as Astable Multivibrator- Square wave oscillator, FSK Generator, Schmitt trigger.\n - IC 565: Block diagram of PLL and applications of PLL \n - IC 566 : Functional diagram of voltage controlled oscillator (IC 565) ",
         "pdfName": "LDIC-3.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1zbqdyaZvsTWTKH8aYwIKbWFMmaByVtPL"
-      },{
+      },
+      {
         "heading": "D to A and A to D CONVERTERS",
         "description": "Introduction, basic DAC techniques – weighted resistor DAC, R-2R ladder DAC, inverted R-2R DAC, A to D converters - parallel comparator type ADC, counter type ADC, successive approximation ADC and dual slope ADC, DAC and ADC Specifications",
         "pdfName": "LDIC-4.pdf",
         "pdfSize": "-",
         "pdfLink": "https://drive.google.com/uc?export=view&id=1U5uaGf0eQRPsJseCNdgH8Oavl-tac4Hg"
-      }],
-    "textbooks":[{ "bookName":"Linear Integrated Circuit",
-                     "author":"D. Roy Choudhury, Shail B. Jain",
-                     "description":"2th Edition",
-                   "link":"https://drive.google.com/uc?export=view&id=1DTAfGjrjCgeqFVdeNcPG9EczsPkXt3Js"}],
-    "refbooks":[],
+      }
+    ],
+    "textbooks": [
+      {
+        "bookName": "Linear Integrated Circuit",
+        "author": "D. Roy Choudhury, Shail B. Jain",
+        "description": "2th Edition",
+        "link": "https://drive.google.com/uc?export=view&id=1DTAfGjrjCgeqFVdeNcPG9EczsPkXt3Js"
+      }
+    ],
+    "refbooks": [],
     "facultyChannels": [],
     "otherLinks": []
-         }
-  ,
-  "Example":{
-    "units":[{
+  },
+  "RVSP": {
+    "units": [
+      {
+        "heading": "Probability Theory",
+        "description": " - Definitions of Probability, Axioms of Probability, Probability Spaces, Properties of Probabilities, Joint and Conditional Probabilities, Independent Events",
+        "pdfName": "RVSP UNIT 1.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1LqUavOV7NaSxrg7JxaBWUGhmEMehTOKc"
+      },
+      {
+        "heading": "Random Variables",
+        "description": " - Probability Distribution Function, Probability Density Function, Joint Distribution of Two Variables, Conditional Probability Distribution and Density, Independent Random Variables, Normal Distribution, Cauchy’s distribution, Exponential Distribution, Binomial Distribution, Poisson distribution, Functions of Random Variables",
+        "pdfName": "RVSP UNIT 2.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=14N-IR46NHFRHsaIO7XPmkPn3R20gFhTH"
+      },
+      {
+        "heading": "Statistical Averages",
+        "description": " - Random Vectors, Statistical Averages, Characteristic Function of Random Variables, Inequalities of Chebyshev‟ s and Schwartz, Convergence Concepts, Central Limit Theorem",
+        "pdfName": "RVSP UNIT 3.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1cp_2YOAxlCOQ-CyVaysdiDS_06nnKdUe"
+      },
+      {
+        "heading": "Random Processes",
+        "description": " - Introduction, Definitions, Stationarity, Ergodicity, Covariance Function and their Properties, Spectral Representation, Wiener- Khinchin Theorem ",
+        "pdfName": "RVSP UNIT 4.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1O4dQSZqU41deimIUX7TfBb4qH2wJsOaV"
+      },
+      {
+        "heading": "Linear Systems and Random Noise Processes",
+        "description": ":Classification of Linear systems, Response of Linear Systems to Random signals, Spectral characteristics of system Response, Gaussian processes, Poisson Processes, Low-pass and Bandpass Noise Representation",
+        "pdfName": "RVSP UNIT 5.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1KUHKabsY8QC8ym7E3SchRfVZMVnuQfiL"
+      }
+    ],
+    "textbooks": [],
+    "refbooks": [],
+    "facultyChannels": [],
+    "otherLinks": []
+  },
+  "Example": {
+    "units": [
+      {
         "heading": "",
         "description": "",
         "pdfName": "",
         "pdfSize": "",
         "pdfLink": "https://drive.google.com/uc?export=view&id="
-      } ],
-    "textbooks":[{ "bookName":"",
-                     "author":"",
-                     "description":"",
-                   "link":"https://drive.google.com/uc?export=view&id="}],
-    "refbooks":[{  "refbookName":"",
-                    "author":"",
-                    "description":"5th Edition",
-                  "link":""
-                 }],
+      }
+    ],
+    "textbooks": [
+      {
+        "bookName": "",
+        "author": "",
+        "description": "",
+        "link": "https://drive.google.com/uc?export=view&id="
+      }
+    ],
+    "refbooks": [
+      {
+        "refbookName": "",
+        "author": "",
+        "description": "5th Edition",
+        "link": ""
+      }
+    ],
     "facultyChannels": [],
-    "otherLinks": [{"name": "",
+    "otherLinks": [
+      {
+        "name": "",
         "TypeOfLink": "",
         "description": "",
-        "link": "https://www.youtube.com/channel/"}]
-         }
+        "link": "https://www.youtube.com/channel/"
+      }
+    ]
+  }
 }
-  
