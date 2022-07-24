@@ -54,4 +54,13 @@
     "pdfs": "5",
     "updated": "24/07/2022"
   }
+  ,
+  {
+    "name":"PPSC",
+    "description": "PROGRAMMING FOR PROBLEM SOLVING USING C",
+    "regulation": "R-20",
+    "units": "1,2,3,4,5",
+    "pdfs": "5",
+    "updated": "24/07/2022"
+  }
 ]
