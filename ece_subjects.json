@@ -271,6 +271,71 @@
     "facultyChannels": [],
     "otherLinks": []
   },
+  "PPSC": {
+    "units": [
+      {
+        "heading": "Introduction to Computers",
+        "description": " - Creating and running Programs, Computer Numbering System, Storing Integers, Storing Real Numbers Introduction to the C Language: Background, C Programs, Identifiers, Types, Variable, Constants, Input/output, Programming Examples, Scope, Storage Classes and Type Qualifiers. Structure of a C Program: Expressions Precedence and Associativity, Side Effects, Evaluating Expressions, Type Conversion Statements, Simple Programs, Command Line Arguments.",
+        "pdfName": "PPSC UNIT 1.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1w80zcC9kNZQsZ8csezWAoNpiVoM8bHCa"
+      },
+      {
+        "heading": "Bitwise Operators",
+        "description": " -  Exact Size Integer Types, Logical Bitwise Operators, Shift Operators.\nSelection & Making Decisions:\n - Logical Data and Operators, Two Way Selection, Multiway Selection, More Standard Functions. Repetition: Concept of Loop, Pretest and Post-test Loops, Initialization and Updating, Event and Counter Controlled Loops, Loops in C, Other Statements Related to Looping, Looping Applications, Programming Examples",
+        "pdfName": "PPSC UNIT 2.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1aQ98n2SdalRRE4Kv0XYU1Gfc2NUMDj7q"
+      },
+      {
+        "heading": "Arrays",
+        "description": " - Concepts, Using Array in C, Array Application, Two Dimensional Arrays, Multidimensional Arrays, Programming Example – Calculate Averages Strings: String Concepts, C String, String Input / Output Functions, Arrays of Strings, String Manipulation Functions String/ Data Conversion, A Programming Example – Morse Code Enumerated, Structure, and Union: The Type Definition (Type def), Enumerated Types, Structure, Unions, and Programming Application.",
+        "pdfName": "PPSC UNIT 3.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1rfbkQ3cmaboehOE4aFBP7zSowEy4wYuF"
+      },
+      {
+        "heading": "Pointers",
+        "description": " - Introduction, Pointers to pointers, Compatibility, L value and R value Pointer\n - Applications: Arrays, and Pointers, Pointer Arithmetic and Arrays, Memory Allocation Function, Array of Pointers, Programming Application. Processor Commands: Processor Commands.",
+        "pdfName": "PPSC UNIT 4.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1vbaetKSWgXRY2UunXC_HiLxypG6F909x"
+      },
+      {
+        "heading": "Functions",
+        "description": " - Designing, Structured Programs, Function in C, User Defined Functions, Inter Function Communication, Standard Functions, Passing Array to Functions, Passing Pointers to Functions, Recursion Text Input / Output: Files, Streams, Standard Library Input / Output Functions, Formatting Input / Output Functions, Character Input / Output Functions Binary Input / Output: Text versus Binary Streams, Standard Library, Functions for Files, Converting File Type",
+        "pdfName": "PPSC UNIT 5.pdf",
+        "pdfSize": "-",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1lkZclwe0u5V7eEeMgT7hENZAWv7RXj61"
+      }
+    ],
+    "textbooks": [
+      {
+        "bookName": "",
+        "author": "",
+        "description": "",
+        "link": "https://drive.google.com/uc?export=view&id="
+      }
+    ],
+    "refbooks": [
+      {
+        "refbookName": "",
+        "author": "",
+        "description": "5th Edition",
+        "link": ""
+      }
+    ],
+    "facultyChannels": [],
+    "otherLinks": [
+      {
+        "name": "",
+        "TypeOfLink": "",
+        "description": "",
+        "link": "https://www.youtube.com/channel/"
+      }
+    ]
+  }
+  ,
   "Example": {
     "units": [
       {
