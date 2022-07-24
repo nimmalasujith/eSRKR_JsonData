@@ -45,4 +45,13 @@
     "pdfs": "1",
     "updated": "22/07/2022"
   }
+  ,
+  {
+    "name":"RVSP",
+    "description": "RANDOM VARIABLES AND STOCHASTIC PROCESSES",
+    "regulation": "R-20",
+    "units": "1,2,3,4,5",
+    "pdfs": "5",
+    "updated": "24/07/2022"
+  }
 ]
