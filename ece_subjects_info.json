@@ -29,6 +29,14 @@
     "units": "1,2,3,4,5",
     "pdfs": "5",
     "updated": "22/07/2022"
+  },
+  {
+    "name":"SS",
+    "description": "SIGNALS AND SYSTEMS",
+    "regulation": "R-20",
+    "units": "1,2,3,4,5",
+    "pdfs": "5",
+    "updated": "25/07/2022"
   },{
     "name":"CAO",
     "description": "Computer Architecture and Organization ",
