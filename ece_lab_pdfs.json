@@ -53,5 +53,18 @@
     ],
     "facultyChannels": [],
     "otherLinks": []
+  },
+  "AP": {
+    "units": [
+      {
+        "heading": "Beginning Arduino",
+        "description": " - Introduction\n - Light ’Em Up\n - LED Effects\n - Simple Sounders and Sensors\n - Driving a DC Motor\n - Binary Counters\n - LED Displays\n - Liquid Crystal Displays\n - Servos\n - Steppers and Robots\n - Pressure Sensors\n - Touch Screens\n - Temperature Sensors\n - Ultrasonic Rangefinders\n - Reading and Writing to an SD Card\n - Making an RFID Reader\n - Communicating over Ethernet",
+        "pdfName": "Arduino Programming.pdf",
+        "pdfSize": "16.1 MB",
+        "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
+      }
+    ],
+    "facultyChannels": [],
+    "otherLinks": []
   }
 }
