@@ -6,6 +6,14 @@
      "expt": "N/A",
      "pdfs": "2",
      "updated": "22/7/2022"
+  }  ,
+  {
+    "name":"AP",
+  "description": "Arduino Programming",
+     "regulation": "R-20",
+     "expt": "N/A",
+     "pdfs": "1",
+     "updated": "22/7/2022"
   },
   {
     "name":"AC",
