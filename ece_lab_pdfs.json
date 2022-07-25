@@ -65,6 +65,9 @@
       }
     ],
     "facultyChannels": [],
-    "otherLinks": []
+    "otherLinks": [{"name": "freeCodeCamp.org",
+        "TypeOfLink": "YouTube Link",
+        "description": "Arduino Course for Beginners - Open-Source Electronics Platform",
+        "link": "https://www.youtube.com/watch?v=zJ-LqeX_fLU"}]
   }
 }
