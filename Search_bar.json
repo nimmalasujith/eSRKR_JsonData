@@ -1,27 +1,27 @@
 [
-  { "name":"1hello",
-    "description":"hello11",
+  { "name":"ECAD",
+    "description":"Electronic Circuit Analysis And Design",
     "link":"",
    "mode":"subject"
   },
-  { "name":"1hello",
-    "description":"hello11",
+  { "name":"LDIC",
+    "description":"Linear and Digital IC Applications",
     "link":"",
    "mode":"subject"
   },
-  { "name":"1hello",
-    "description":"hello11",
+  { "name":"BE",
+    "description":"Basic Electronics",
     "link":"",
    "mode":"subject"
   },
-  { "name":"1hello",
-    "description":"hello11",
+  { "name":"BEE",
+    "description":"Basic Electrical Engineering",
     "link":"",
    "mode":"subject"
   },
-  { "name":"1hello",
-    "description":"hello11",
+  { "name":"SS",
+    "description":"SIGNALS AND SYSTEMS",
     "link":"",
    "mode":"subject"
-  },
+  }
 ]
