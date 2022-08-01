@@ -310,29 +310,14 @@
       }
     ],
     "textbooks": [
-      {
-        "bookName": "",
-        "author": "",
-        "description": "",
-        "link": "https://drive.google.com/uc?export=view&id="
-      }
+     
     ],
     "refbooks": [
-      {
-        "refbookName": "",
-        "author": "",
-        "description": "5th Edition",
-        "link": ""
-      }
+     
     ],
     "facultyChannels": [],
     "otherLinks": [
-      {
-        "name": "",
-        "TypeOfLink": "",
-        "description": "",
-        "link": "https://www.youtube.com/channel/"
-      }
+    
     ]
   }
   ,
