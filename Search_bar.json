@@ -2,26 +2,26 @@
   { "name":"ECAD",
     "description":"Electronic Circuit Analysis And Design",
     "link":"",
-   "mode":"subject"
+   "mode":"sub"
   },
   { "name":"LDIC",
     "description":"Linear and Digital IC Applications",
     "link":"",
-   "mode":"subject"
+   "mode":"sub"
   },
   { "name":"BE",
     "description":"Basic Electronics",
     "link":"",
-   "mode":"subject"
+   "mode":"sub"
   },
-  { "name":"BEE",
+  { "name":"AP",
     "description":"Basic Electrical Engineering",
     "link":"",
-   "mode":"subject"
+   "mode":"lab"
   },
-  { "name":"SS",
+  { "name":"AC",
     "description":"SIGNALS AND SYSTEMS",
     "link":"",
-   "mode":"subject"
+   "mode":"lab"
   }
 ]
