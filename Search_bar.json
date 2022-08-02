@@ -3,46 +3,5 @@
     "description":"Electronic Circuit Analysis And Design",
     "link":"",
    "mode":"sub"
-  },
-  { "name":"LDIC",
-    "description":"Linear and Digital IC Applications",
-    "link":"",
-   "mode":"sub"
-  },
-  { "name":"BE",
-    "description":"Basic Electronics",
-    "link":"",
-   "mode":"sub"
-  },
-  { "name":"BEE",
-    "description":"Basic Electrical Engineering",
-    "link":"",
-   "mode":"sub"
-  },
-  { "name":"SS",
-    "description":"SIGNALS AND SYSTEMS",
-    "link":"",
-   "mode":"sub"
-  },
-  { "name":"CAO",
-    "description":"Computer Architecture and Organization",
-    "link":"",
-   "mode":"sub"
-  },
-  { "name":"CHEMISTRY",
-    "description":"Applied Chemistry",
-    "link":"",
-   "mode":"sub"
-  },
-  { "name":"RVSP",
-    "description":"RANDOM VARIABLES AND STOCHASTIC PROCESSES",
-    "link":"",
-   "mode":"sub"
-  }
-  ,
-  { "name":"PPSC",
-    "description":"PROGRAMMING FOR PROBLEM SOLVING USING C",
-    "link":"",
-   "mode":"sub"
   }
 ]
