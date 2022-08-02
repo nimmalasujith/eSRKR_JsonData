@@ -1,7 +1,12 @@
 [
   { "name":"ECAD",
     "description":"Electronic Circuit Analysis And Design",
-    "link":"",
-   "mode":"sub"
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"PYTHON",
+    "description":"Electronic Circuit Analysis And Design",
+    "branch":"CSE",
+    "mode":"sub"
   }
 ]
