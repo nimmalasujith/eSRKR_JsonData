@@ -14,14 +14,35 @@
     "link":"",
    "mode":"sub"
   },
-  { "name":"AP",
+  { "name":"BEE",
     "description":"Basic Electrical Engineering",
     "link":"",
-   "mode":"lab"
+   "mode":"sub"
   },
-  { "name":"AC",
+  { "name":"SS",
     "description":"SIGNALS AND SYSTEMS",
     "link":"",
-   "mode":"lab"
+   "mode":"sub"
+  },
+  { "name":"CAO",
+    "description":"Computer Architecture and Organization",
+    "link":"",
+   "mode":"sub"
+  },
+  { "name":"CHEMISTRY",
+    "description":"Applied Chemistry",
+    "link":"",
+   "mode":"sub"
+  },
+  { "name":"RVSP",
+    "description":"RANDOM VARIABLES AND STOCHASTIC PROCESSES",
+    "link":"",
+   "mode":"sub"
+  }
+  ,
+  { "name":"PPSC",
+    "description":"PROGRAMMING FOR PROBLEM SOLVING USING C",
+    "link":"",
+   "mode":"sub"
   }
 ]
