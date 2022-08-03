@@ -4,9 +4,44 @@
     "branch":"ECE",
     "mode":"sub"
   },
-   { "name":"PYTHON",
-    "description":"Electronic Circuit Analysis And Design",
-    "branch":"CSE",
+   { "name":"LDIC",
+    "description":"Linear and Digital IC Applications",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"BEE",
+    "description":"Basic Electrical Engineering",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"SS",
+    "description":"SIGNALS AND SYSTEMS",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"BE",
+    "description":"Basic Electronics",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"CAO",
+    "description":"Computer Architecture and Organization ",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"CHEMISTRY",
+    "description":"Applied Chemistry",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"RVSP",
+    "description":"RANDOM VARIABLES AND STOCHASTIC PROCESSES",
+    "branch":"ECE",
+    "mode":"sub"
+  },
+   { "name":"PPSC",
+    "description":"PROGRAMMING FOR PROBLEM SOLVING USING C",
+    "branch":"ECE",
     "mode":"sub"
   }
 ]
