@@ -1,6 +1,9 @@
 [
-  {"flashNews":"data 1 "},
-  {"flashNews":"data 2"},
-  {"flashNews":"data 3"}
+  {"flashNews":"data 1 ",
+  "link":""},
+  {"flashNews":"data 2",
+  "link":""},
+  {"flashNews":"data 3",
+  "link":""}
 
 ]
