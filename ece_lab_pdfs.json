@@ -6,14 +6,14 @@
         "description": "- Python program to add two numbers\n- Maximum of two numbers in Python\n- Python program to print all Prime numbers in an Interval\n- Python program to check whether a number is Prime or not\n- Program to print ASCII Value of a character\n- Python program to generate a random number\n- Given a decimal number as input, the task is to write a Python program to convert the given decimal number into an equivalent binary number\n- Python Program to find sum of array\n- Python Program to find largest element in an array\n- Python Program for array rotation\n- Python Program for Find reminder of array multiplication divided by n\n- Python program to print even numbers in a list\n- Python program to print Even Numbers in given range\n- Python program to find N largest elements from a list\n- Python program to Sort the values of first list using second list\n- Adding and Subtracting Matrices in Python\n- Python program to multiply two matrices\n- Python to find the frequencies of all the characters in that string and return a dictionary with key as the character and its value as its frequency in the given string\n- String slicing in Python to rotate a string\n- Find words which are greater than given length k\n- Python program to Check if a given string is binary string or not\n- Ways to sort list of dictionaries by values in Python – Using lambda function\n- Ways to sort list of dictionaries by values in Python – Using itemgette\n- Python – Sort Dictionary key and values List\n- Python – Maximum and Minimum K elements in Tuple\n- Create a list of tuples from given list having number and its cube in each tuple\n- Python – Remove Tuples of Length K\n- Sort a list of tuples by second Item\n- Python Program for Binary Search (Recursive and Iterative)\n- Python Program for Linear Search",
         "pdfName": "python Record - 01",
         "pdfSize": "38 KB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1ecEJtluiB0uIKRRDhaU1qS071hLZMTDP"
+        "pdfLink": "https://drive.google.com/file/d/1ecEJtluiB0uIKRRDhaU1qS071hLZMTDP/view?usp=sharing"
       },
       {
         "heading": "Python Examples - 02",
         "description": "Numpy\n - You are given a space separated list of numbers. Your task is to print a reversed NumPy array with the element type float\n - You are given a space separated list of nine integers. Your task is to convert this list into a 3X3 NumPy array\n - Basic mathematical operations- NumPy\nScipy\n - Compute pivoted LU decomposition of a matrix-SciPy\n - Single Integrals-SciPy\nMatplotlib\n - Draw a line in a diagram from position (0,0) to position (6,250)\n - plot\n - Scatter Plots\n - Bar  Plot\n - Histogram\n - Pie-chart",
         "pdfName": "python Record - 02",
         "pdfSize": "55 KB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1uE9ynbNHhC2IPFIINy_y0pfpX9xEYJ2a"
+        "pdfLink": "https://drive.google.com/file/d/1uE9ynbNHhC2IPFIINy_y0pfpX9xEYJ2a/view?usp=sharing"
       }
     ],
     "facultyChannels": [],
@@ -27,28 +27,28 @@
         "description": "Demodulation\n - using butterworth filter\n - USING modulate and demod command\n - USING ammod and amdemod command",
         "pdfName": "AC -01",
         "pdfSize": "890 KB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
+        "pdfLink": "https://drive.google.com/file/d/1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ/view?usp=sharing"
       },
       {
         "heading": "AC Software",
         "description": " - frequency modulation and demodulation\n - fm using modulate and demod command\n - fm using fmmod and fmdemod command\n - pulse amplitude modulation",
         "pdfName": "AC -02",
         "pdfSize": "760 KB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1PeshS9EZPKpLnZAWgKE3lny-yxTnxDRz"
+        "pdfLink": "https://drive.google.com/file/d/1PeshS9EZPKpLnZAWgKE3lny-yxTnxDRz/view?usp=sharing"
       },
       {
         "heading": "AC Software",
         "description": " - AM DSB modulation and demodulation (demodulation using synchronous detection)\n - AM DSB modulation and demodulation using modulate and demod command\n - AM DSB modulation and demodulation using ammod and amdemod commands\n - AM SSB modulation and demodulation (Lower side band)\n - AM SSB modulation and demodulation (Upper side band)\n - AM SSB modulation and demodulation using modulate and demod command",
         "pdfName": "AC -03",
         "pdfSize": "1.7 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1WVKlgF2soK3V2ePB7nSQcI2E4Fbzovs4OgIlKwB33Rc"
+        "pdfLink": "https://drive.google.com/file/d/1WVKlgF2soK3V2ePB7nSQcI2E4Fbzovs4OgIlKwB33Rc/view?usp=sharing"
       },
       {
         "heading": "AC Software",
         "description": " - pulse width modulation\n - pulse phase modulation",
         "pdfName": "AC -04",
         "pdfSize": "336 KB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
+        "pdfLink": "https://drive.google.com/file/d/1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ/view?usp=sharing"
       }
     ],
     "facultyChannels": [],
@@ -61,7 +61,7 @@
         "description": " - Introduction\n - Light ’Em Up\n - LED Effects\n - Simple Sounders and Sensors\n - Driving a DC Motor\n - Binary Counters\n - LED Displays\n - Liquid Crystal Displays\n - Servos\n - Steppers and Robots\n - Pressure Sensors\n - Touch Screens\n - Temperature Sensors\n - Ultrasonic Rangefinders\n - Reading and Writing to an SD Card\n - Making an RFID Reader\n - Communicating over Ethernet",
         "pdfName": "Arduino Programming.pdf",
         "pdfSize": "16.1 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ"
+        "pdfLink": "https://drive.google.com/file/d/1RvVZW-tJ5GO2QNl6LQ4q4EP0PpQPF4MJ/view?usp=sharing"
       }
     ],
     "facultyChannels": [],
