@@ -6,28 +6,28 @@
         "description": " - Transistor at high frequencies\n - CE short circuit current gain and concept of Gain Bandwidth product\n - BJT and FET RC coupled amplifiers at low and high frequencies\n - Frequency response and calculation of Bandwidth of Multistage Amplifiers",
         "pdfName": "unit 1.pdf",
         "pdfSize": "3 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1ThztJ3aKip2tLGTUpDokw9XMLzSR5dPg"
+        "pdfLink": "https://drive.google.com/file/d/1ThztJ3aKip2tLGTUpDokw9XMLzSR5dPg/view?usp=sharing"
       },
       {
         "heading": "Feedback Amplifiers",
         "description": " - Concept of Feedback Amplifiers - Effect of Negative Feedback on the amplifier Characteristics\n - Four feedback topologies, Method of analysis of Voltage Series, Current Series, Voltage Shunt and Current Shunt feedback Amplifiers",
         "pdfName": "unit 2.pdf",
         "pdfSize": "2.7 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1O5PYV8S8hetvHhxkLXH3BFFSaoUJbRVU"
+        "pdfLink": "https://drive.google.com/file/d/1O5PYV8S8hetvHhxkLXH3BFFSaoUJbRVU/view?usp=sharing"
       },
       {
         "heading": "Sinusoidal Oscillators",
         "description": "Condition for oscillations and types of Oscillators\n – RC Oscillators: RC Phase Shift and Wien bridge Oscillators\n - LC Oscillators: Hartley, Colpitts, Clapp, Tuned Collector and Crystal Oscillators",
         "pdfName": "unit 3.pdf",
         "pdfSize": "2.9 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1Tm2FKg3wcvBDpp67dol7ah6XhegVJyBR"
+        "pdfLink": "https://drive.google.com/file/d/1Tm2FKg3wcvBDpp67dol7ah6XhegVJyBR/view?usp=sharing"
       },
       {
         "heading": "Power Amplifiers and Tuned Voltage Amplifiers",
         "description": " - Classification of Power Amplifiers\n - Series fed, Transformer coupled class-A and class-BPower amplifiers\n - Push Pull Class-A, Class-B and Class-AB Power Amplifiers\n - Cross-over Distortion in Pure Class-B Power Amplifier and Class-AB Power Amplifier-Trickle Bias, Derating Factor and Heat Sinks – Complementary Push Pull Amplifier\n - Analysis of Single tuned, Double tuned and Stagger Tuned Amplifiers with gain and Bandwidth Calculations",
         "pdfName": "unit 4.pdf",
         "pdfSize": "2.1 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1fy5NZkV3IPkQWlqh7Aa5MzABsG5rpoV8"
+        "pdfLink": "https://drive.google.com/file/d/1fy5NZkV3IPkQWlqh7Aa5MzABsG5rpoV8/view?usp=sharing"
       }
     ],
     "textbooks": [
@@ -49,35 +49,35 @@
         "description": " - Independent DC & AC sources, Passive and active circuit components, Resistors, Inductors,Capacitors, V-I relationships, Series and parallel connections, Resistance, Reactance,Impedance, KVL, KCL, Concept of charging and discharging, Frequency response of a 1st order RC circuit\n - Basics of Voltmeter, Ammeter and Multimeter, Basics of CRO: Functional block diagram, Operation, Measurement of voltage and current amplitude along with frequency",
         "pdfName": "BE Unit 1.ppt",
         "pdfSize": "1.58 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1sCeSs-G5mcCTiwNiIPLyyu2pdmivKIKj"
+        "pdfLink": "https://drive.google.com/file/d/1sCeSs-G5mcCTiwNiIPLyyu2pdmivKIKj/view?usp=sharing"
       },
       {
         "heading": "Semiconductor Materials and Properties",
         "description": " - Energy band theory of solids, Classification of Materials, Fermi-level, Intrinsic and Extrinsic semiconductors, P-type and N-type semiconductors, Mobility and conductivity, Dependence of conductivity on temperature, Charge densities, Drift and diffusion currents and their densities, Hall effect",
         "pdfName": "BE Unit 2.ppt",
         "pdfSize": "1.5 MB",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1VvEBw6MkVkkOFIndHw-vqDDoItNFXppX"
+        "pdfLink": "https://drive.google.com/file/d/1VvEBw6MkVkkOFIndHw-vqDDoItNFXppX/view?usp=sharing"
       },
       {
         "heading": "Fundamentals of P-N Junction Diode and Special Diodes",
         "description": " - Elementary concepts, Forward and reverse biased P-N junction, V-I characteristics, Linear piecewise model, DC load line, Applications of PN junction diode, Varactor diode, Zener diode, LED, Photo diode\n - Diode as a Rectifier: Half wave, Full wave rectifiers, PIV, DC voltage and current, Ripple factor, Efficiency, Capacitor filter, Zener diode as a voltage regulator",
         "pdfName": "BE Unit 3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=18SZF-RH98k-1aG9H5d7OW8axssZXqpEJ"
+        "pdfLink": "https://drive.google.com/file/d/18SZF-RH98k-1aG9H5d7OW8axssZXqpEJ/view?usp=sharing"
       },
       {
         "heading": "Fundamentals of Transistors and Integrated Circuits (IC)",
         "description": " - Bipolar Junction Transistor (BJT) construction and Basic operation, Active, Cut-off, Saturation modes of operation, CB, CE and CC configurations, Input and Output characteristics, Early effect, Transistor as an Amplifier and a Switch, Comparison of three configurations, Advantages of FET over BJT, Junction-Field Effect Transistor (JFET) Operation,\n - Introduction to Integrated Circuits: Classification of ICs and Fabrication of Monolithic ICs. ",
         "pdfName": "BE Unit 4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1yooGfUS1P5I00NSxNV2UUxRWuON0jk8q"
+        "pdfLink": "https://drive.google.com/file/d/1yooGfUS1P5I00NSxNV2UUxRWuON0jk8q/view?usp=sharing"
       },
       {
         "heading": "Digital Electronics (Introductory level only)",
         "description": " - Difference between analog and digital signals, Number Systems: Binary, Decimal, Octal, Hexa-Decimal number systems and Conversions among them, Logic Gates: AND, OR, NOT, XOR, NAND and NOR\n -  Half and Full adder/subtractor, Latches and Flip Flops: SR, JK, T, D flip-flops",
         "pdfName": "BE Unit 5.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1i9i-wTWqGm936oc_J_PmyVXCK0gujU3z"
+        "pdfLink": "https://drive.google.com/file/d/1i9i-wTWqGm936oc_J_PmyVXCK0gujU3z/view?usp=sharing"
       }
     ],
     "textbooks": [
@@ -113,35 +113,35 @@
         "description": " - Principle of operation and construction of DC generator – EMF equation – types of DC machines – OCC of DC shunt generator - Torque equation of DC motor - applications – losses and efficiency - Brake test- Swinburne’s test - speed control of DC shunt motorSimple Problems. ",
         "pdfName": "BEE Unit 1.ppt",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1pnuACfm2JnE-u4NROGRV5VKf5_8lBcSb"
+        "pdfLink": "https://drive.google.com/file/d/1pnuACfm2JnE-u4NROGRV5VKf5_8lBcSb/view?usp=sharing"
       },
       {
         "heading": "Introduction to AC Circuits",
         "description": " - Representation of sinusoidal waveforms - Peak, Average and RMS values - Phasor representation - power factor - Analysis of single-phase ac circuits consisting of pure resistor, pure inductor, pure capacitor, R-L, R-C, RLC series circuits-instantaneous powerreal power - reactive power - apparent power",
         "pdfName": "BEE Unit 2.ppt",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=14DqaUCj0k15QN31Kc7v3zF4ZSXOfskcy"
+        "pdfLink": "https://drive.google.com/file/d/14DqaUCj0k15QN31Kc7v3zF4ZSXOfskcy/view?usp=sharing"
       },
       {
         "heading": "Transformers",
         "description": " - Principle of operation of Single-Phase Transformer – EMF equation - Losses and efficiency of transformer- Regulation of transformer- OC and SC tests on single phase transformerPredetermination of efficiency and regulation -Simple Problems",
         "pdfName": "BEE Unit 3.ppt",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1YxbwgR1ntWcud5CSt7IqHPAPERK6nCmK"
+        "pdfLink": "https://drive.google.com/file/d/1YxbwgR1ntWcud5CSt7IqHPAPERK6nCmK/view?usp=sharing"
       },
       {
         "heading": "Induction Machines",
         "description": " - Principle of operation and construction of three phase Induction Motors- slip ring and squirrel cage motors-Torque Equation - Torque-Slip Characteristics- Brake test on three phase Induction motor- Simple Problems.",
         "pdfName": "BEE Unit 4.ppt",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1OdI3Ji70B_kYlJ-qsiHn0T6sZDSL5Cuc"
+        "pdfLink": "https://drive.google.com/file/d/1OdI3Ji70B_kYlJ-qsiHn0T6sZDSL5Cuc/view?usp=sharing"
       },
       {
         "heading": "Synchronous Machines",
         "description": " - Principle of operation and construction of Alternators –Types of Alternators-EMF equation of three phase Alternator - Regulation of Alternator by Synchronous impedance method.\n - Principle of operation and construction of Synchronous Motor- Starting methods of Synchronous motor.",
         "pdfName": "BEE Unit 5.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1ZeF1ReVPt3T9izhDgs72a4wZb1-B_r8g"
+        "pdfLink": "https://drive.google.com/file/d/1ZeF1ReVPt3T9izhDgs72a4wZb1-B_r8g/view?usp=sharing"
       }
     ],
     "textbooks": [],
