@@ -328,31 +328,31 @@
         "description": " - Continuous –Time and Discrete –Time signals, Signal Energy and Power, Periodic Signals, Even and odd Signals, continuous- Time complex Exponential and Sinusoidal Signals, Discrete –Time complex Exponential and Sinusoidal Signals and their Periodicity , The Unit Impulse and Unit step Functions, The Continuous-Time Unit impulse and Unit step Sequence, Continuous –Time and Discrete –Time Systems, Interconnections of Systems, Basic System Properties, Continuous–Time and Discrete Time LTI Systems: – The Graphical interpretation of Convolution Integral and The Convolution Sum, Causal LTI Systems Described by Differential and Difference Equations, Singularity Functions",
         "pdfName": "SS Unit 1.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1iIxxAYRjEGJf_eqq68PpsaQ04ZRO3kja"
+        "pdfLink": "https://drive.google.com/file/d/1iIxxAYRjEGJf_eqq68PpsaQ04ZRO3kja/view?usp=sharing"
       },{
         "heading": "Fourier Series Representation of Periodic Signals",
         "description": " - Introduction, Fourier Series Representation of continuous time Periodic Signals (Complex Exponential and Trigonometric Fourier Series only), convergence of the Fourier Series, Properties of continuous time Fourier Series, Fourier Series representation of discrete time periodic signals, Properties of discrete time Fourier Series (Elementary Level on DTFS)",
         "pdfName": "SS Unit 2-3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1d4vITzarr1ODK-AnbhlsTdgki8dV63jw"
+        "pdfLink": "https://drive.google.com/file/d/1d4vITzarr1ODK-AnbhlsTdgki8dV63jw/view?usp=sharing"
       },{
         "heading": "Continuous and Discrete time Fourier Transform",
         "description": " - Introduction, Representation of Aperiodic signals, The continuous time Fourier Transform, The Fourier Transform for periodic signals, Properties of the continuous time Fourier Transform, Systems characterized by linear constant coefficient differential equations. Discrete time Fourier Transform, Properties of the Discrete time Fourier Transform, Systems characterized by linear constant coefficient differential equations (Elementary Level on DTFT).",
         "pdfName": "SS Unit 3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=14Y8WIshTYTFDU0wLq44MxQrxlShj5EMY"
+        "pdfLink": "https://drive.google.com/file/d/14Y8WIshTYTFDU0wLq44MxQrxlShj5EMY/view?usp=sharing"
       },{
         "heading": "Laplace Transform",
         "description": " - Introduction, The Laplace Transform, the region of convergence for Laplace Transforms, The Inverse Laplace Transform, Properties of Laplace Transforms, The initial and Final value theorems, Analysis and characterization of LTI systems using the Laplace Transforms. ",
         "pdfName": "SS Unit 4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1Ot4mtv1MuKbph62e87o-bJKHz8Qli0Ss"
+        "pdfLink": "https://drive.google.com/file/d/1Ot4mtv1MuKbph62e87o-bJKHz8Qli0Ss/view?usp=sharing"
       },{
         "heading": "Sampling Theorem and Z-transform",
         "description": " - Introduction to Sampling Theorem, Statement of Sampling Theorem for Low pass and Band pass signals (Theorem Proof for Low Pass signals only), reconstruction of a signal from its samples using interpolation, discussion on Oversampling, Critical sampling and Under sampling (aliasing). The Z-Transform (Bilateral and unilateral), The Inverse ZTransform, Properties of Z-Transform, Initial and Final Value theorems, some common Ztransform pairs, Analysis and characterization of LTI systems using the Z-Transforms.",
         "pdfName": "z-transforms.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1fCqKvXaFYUYf83n1KSAUZ03hQrUsZlnO"
+        "pdfLink": "https://drive.google.com/file/d/1fCqKvXaFYUYf83n1KSAUZ03hQrUsZlnO/view?usp=sharing"
       }
     ],
     "textbooks": [
