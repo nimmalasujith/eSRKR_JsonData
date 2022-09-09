@@ -85,7 +85,7 @@
         "bookName": "Electronic Principles",
         "author": "Albert Paul Malvino",
         "description": "7th Edition",
-        "link": "https://drive.google.com/uc?export=view&id=1hT7Q3IEDr5sn12b-F4Xubqujmji1YAsv"
+        "link": "https://drive.google.com/file/d/1hT7Q3IEDr5sn12b-F4Xubqujmji1YAsv/view?usp=sharing"
       }
     ],
     "refbooks": [],
@@ -100,7 +100,7 @@
         "refbookName": "Engineering Chemistry",
         "author": "Shikha Aharwal",
         "description": "Cambridge University\n      2nd Edition ",
-        "link": "https://drive.google.com/uc?export=view&id=1W_cGwTJ7MBg7OKLugg3UIw7UaDWsUrsq"
+        "link": "https://drive.google.com/file/d/1W_cGwTJ7MBg7OKLugg3UIw7UaDWsUrsq/view?usp=sharing"
       }
     ],
     "facultyChannels": [],
@@ -156,28 +156,28 @@
         "description": " - Register Transfer Language, Register Transfer, Bus and Memory Transfers, Arithmetic Micro operations, Logic Micro operations, Shift Micro operations, Arithmetic Logic Shift Unit. ",
         "pdfName": "CAO-1.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1somlMT1yBHY1h1JBiogCVUBw3n3oCpkG"
+        "pdfLink": "https://drive.google.com/file/d/1somlMT1yBHY1h1JBiogCVUBw3n3oCpkG/view?usp=sharing"
       },
       {
         "heading": "Basic Computer Organization",
         "description": " - Instruction Codes, Computer Registers, Computer Instructions, Timing and Control, Instruction Cycle, Memory Reference Instructions, Input - Output and Interrupt, Complete Computer Description",
         "pdfName": "CAO-2.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1g52_URI4ds5GDibqIzbNUKXEdggU0q1u"
+        "pdfLink": "https://drive.google.com/file/d/1g52_URI4ds5GDibqIzbNUKXEdggU0q1u/view?usp=sharing"
       },
       {
         "heading": "Micro programmed Control & CPU Organization",
         "description": "Micro programmed Control\n - Control Memory, Address Sequencing, Microinstruction Formats, Microprogram Example and Design of Control Unit.\nCPU Organization:\n - Introduction, General Register Organization, Stack Organization Instruction Formats, Addressing Modes, Data Transfer and Manipulation, Program Control, Reduced Instruction Set Computer (RISC).",
         "pdfName": "CAO-3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI"
+        "pdfLink": "https://drive.google.com/file/d/1cezm6FuSnYoyXqlViCFWC5_VLPpLynsI/view?usp=sharing"
       },
       {
         "heading": "Input – Output Organization & Introduction to Pipelining",
         "description": "Peripheral Devices, Input - Output Interface, Asynchronous Data Transfer, Modes of Transfer, Priority Interrupt, Direct Memory Access (DMA), Input- Output processor, CPUIOP communication, Parallel Processing, Introduction to pipelining",
         "pdfName": "CAO-4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1Dqn4MNyXZzvemboxmL4X5O-gbqTRkfFO"
+        "pdfLink": "https://drive.google.com/file/d/1Dqn4MNyXZzvemboxmL4X5O-gbqTRkfFO/view?usp=sharing"
       }
     ],
     "textbooks": [],
@@ -192,28 +192,28 @@
         "description": " - Basics of Op-Amp, Block Diagram, Ideal characteristics, op-amp parameters, open loop, and closed loop op-amp configurations, Applications of op-amp- summing amplifier, subtractor, Basic Integrator, Basic differentiator, Logarithmic amplifier\n -  Instrumentation Amplifiers, Op-amp As a Comparators, Schmitt trigger, square wave generator",
         "pdfName": "LDIC-1.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1svq7gePqT-J-KMGHD7EK5tpuDZYlRivx"
+        "pdfLink": "https://drive.google.com/file/d/1svq7gePqT-J-KMGHD7EK5tpuDZYlRivx/view?usp=sharing"
       },
       {
         "heading": "active filters and oscillators",
         "description": " - Butterworth type LPF, HPF first and secondorder filters, Higher order filters, Wide Band pass filters, Wide band reject filter, All pass filters. OpAmp Phase Shift oscillator, Wein-bridge oscillator, Quadrature Oscillator, voltagecontrolled oscillators, Voltage to current and current to voltage converters",
         "pdfName": "LDIC-2.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=19fAwp3OTyYOiUdNpPht4GZ6kj-WwxJUW"
+        "pdfLink": "https://drive.google.com/file/d/19fAwp3OTyYOiUdNpPht4GZ6kj-WwxJUW/view?usp=sharing"
       },
       {
         "heading": "Special Ics",
         "description": " - Introduction, Block diagram, 555 timer as an Astable and Monostable Multivibrator, Applications of 555 Timer as Monostable multivibrator- Frequency divider, Pulse stretcher, Missing pulse detector, Linear ramp generator, Pulse width modulation, Applications of 555 Timer as Astable Multivibrator- Square wave oscillator, FSK Generator, Schmitt trigger.\n - IC 565: Block diagram of PLL and applications of PLL \n - IC 566 : Functional diagram of voltage controlled oscillator (IC 565) ",
         "pdfName": "LDIC-3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1zbqdyaZvsTWTKH8aYwIKbWFMmaByVtPL"
+        "pdfLink": "https://drive.google.com/file/d/1zbqdyaZvsTWTKH8aYwIKbWFMmaByVtPL/view?usp=sharing"
       },
       {
         "heading": "D to A and A to D CONVERTERS",
         "description": "Introduction, basic DAC techniques – weighted resistor DAC, R-2R ladder DAC, inverted R-2R DAC, A to D converters - parallel comparator type ADC, counter type ADC, successive approximation ADC and dual slope ADC, DAC and ADC Specifications",
         "pdfName": "LDIC-4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1U5uaGf0eQRPsJseCNdgH8Oavl-tac4Hg"
+        "pdfLink": "https://drive.google.com/file/d/1U5uaGf0eQRPsJseCNdgH8Oavl-tac4Hg/view?usp=sharing"
       }
     ],
     "textbooks": [
@@ -235,35 +235,35 @@
         "description": " - Definitions of Probability, Axioms of Probability, Probability Spaces, Properties of Probabilities, Joint and Conditional Probabilities, Independent Events",
         "pdfName": "RVSP UNIT 1.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1LqUavOV7NaSxrg7JxaBWUGhmEMehTOKc"
+        "pdfLink": "https://drive.google.com/file/d/1LqUavOV7NaSxrg7JxaBWUGhmEMehTOKc/view?usp=sharing"
       },
       {
         "heading": "Random Variables",
         "description": " - Probability Distribution Function, Probability Density Function, Joint Distribution of Two Variables, Conditional Probability Distribution and Density, Independent Random Variables, Normal Distribution, Cauchy’s distribution, Exponential Distribution, Binomial Distribution, Poisson distribution, Functions of Random Variables",
         "pdfName": "RVSP UNIT 2.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=14N-IR46NHFRHsaIO7XPmkPn3R20gFhTH"
+        "pdfLink": "https://drive.google.com/file/d/14N-IR46NHFRHsaIO7XPmkPn3R20gFhTH/view?usp=sharing"
       },
       {
         "heading": "Statistical Averages",
         "description": " - Random Vectors, Statistical Averages, Characteristic Function of Random Variables, Inequalities of Chebyshev‟ s and Schwartz, Convergence Concepts, Central Limit Theorem",
         "pdfName": "RVSP UNIT 3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1cp_2YOAxlCOQ-CyVaysdiDS_06nnKdUe"
+        "pdfLink": "https://drive.google.com/file/d/1cp_2YOAxlCOQ-CyVaysdiDS_06nnKdUe/view?usp=sharing"
       },
       {
         "heading": "Random Processes",
         "description": " - Introduction, Definitions, Stationarity, Ergodicity, Covariance Function and their Properties, Spectral Representation, Wiener- Khinchin Theorem ",
         "pdfName": "RVSP UNIT 4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1O4dQSZqU41deimIUX7TfBb4qH2wJsOaV"
+        "pdfLink": "https://drive.google.com/file/d/1O4dQSZqU41deimIUX7TfBb4qH2wJsOaV/view?usp=sharing"
       },
       {
         "heading": "Linear Systems and Random Noise Processes",
         "description": ":Classification of Linear systems, Response of Linear Systems to Random signals, Spectral characteristics of system Response, Gaussian processes, Poisson Processes, Low-pass and Bandpass Noise Representation",
         "pdfName": "RVSP UNIT 5.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1KUHKabsY8QC8ym7E3SchRfVZMVnuQfiL"
+        "pdfLink": "https://drive.google.com/file/d/1KUHKabsY8QC8ym7E3SchRfVZMVnuQfiL/view?usp=sharing"
       }
     ],
     "textbooks": [],
@@ -278,35 +278,35 @@
         "description": " - Creating and running Programs, Computer Numbering System, Storing Integers, Storing Real Numbers Introduction to the C Language: Background, C Programs, Identifiers, Types, Variable, Constants, Input/output, Programming Examples, Scope, Storage Classes and Type Qualifiers. Structure of a C Program: Expressions Precedence and Associativity, Side Effects, Evaluating Expressions, Type Conversion Statements, Simple Programs, Command Line Arguments.",
         "pdfName": "PPSC UNIT 1.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1w80zcC9kNZQsZ8csezWAoNpiVoM8bHCa"
+        "pdfLink": "https://drive.google.com/file/d/1w80zcC9kNZQsZ8csezWAoNpiVoM8bHCa/view?usp=sharing"
       },
       {
         "heading": "Bitwise Operators",
         "description": " -  Exact Size Integer Types, Logical Bitwise Operators, Shift Operators.\nSelection & Making Decisions:\n - Logical Data and Operators, Two Way Selection, Multiway Selection, More Standard Functions. Repetition: Concept of Loop, Pretest and Post-test Loops, Initialization and Updating, Event and Counter Controlled Loops, Loops in C, Other Statements Related to Looping, Looping Applications, Programming Examples",
         "pdfName": "PPSC UNIT 2.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1aQ98n2SdalRRE4Kv0XYU1Gfc2NUMDj7q"
+        "pdfLink": "https://drive.google.com/file/d/1aQ98n2SdalRRE4Kv0XYU1Gfc2NUMDj7q/view?usp=sharing"
       },
       {
         "heading": "Arrays",
         "description": " - Concepts, Using Array in C, Array Application, Two Dimensional Arrays, Multidimensional Arrays, Programming Example – Calculate Averages Strings: String Concepts, C String, String Input / Output Functions, Arrays of Strings, String Manipulation Functions String/ Data Conversion, A Programming Example – Morse Code Enumerated, Structure, and Union: The Type Definition (Type def), Enumerated Types, Structure, Unions, and Programming Application.",
         "pdfName": "PPSC UNIT 3.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1rfbkQ3cmaboehOE4aFBP7zSowEy4wYuF"
+        "pdfLink": "https://drive.google.com/file/d/1rfbkQ3cmaboehOE4aFBP7zSowEy4wYuF/view?usp=sharing"
       },
       {
         "heading": "Pointers",
         "description": " - Introduction, Pointers to pointers, Compatibility, L value and R value Pointer\n - Applications: Arrays, and Pointers, Pointer Arithmetic and Arrays, Memory Allocation Function, Array of Pointers, Programming Application. Processor Commands: Processor Commands.",
         "pdfName": "PPSC UNIT 4.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1vbaetKSWgXRY2UunXC_HiLxypG6F909x"
+        "pdfLink": "https://drive.google.com/file/d/1vbaetKSWgXRY2UunXC_HiLxypG6F909x/view?usp=sharing"
       },
       {
         "heading": "Functions",
         "description": " - Designing, Structured Programs, Function in C, User Defined Functions, Inter Function Communication, Standard Functions, Passing Array to Functions, Passing Pointers to Functions, Recursion Text Input / Output: Files, Streams, Standard Library Input / Output Functions, Formatting Input / Output Functions, Character Input / Output Functions Binary Input / Output: Text versus Binary Streams, Standard Library, Functions for Files, Converting File Type",
         "pdfName": "PPSC UNIT 5.pdf",
         "pdfSize": "-",
-        "pdfLink": "https://drive.google.com/uc?export=view&id=1lkZclwe0u5V7eEeMgT7hENZAWv7RXj61"
+        "pdfLink": "https://drive.google.com/file/d/1lkZclwe0u5V7eEeMgT7hENZAWv7RXj61/view?usp=sharing"
       }
     ],
     "textbooks": [
