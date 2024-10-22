@@ -1,4 +1,4 @@
-{
+[{
   "id": "movie_123",
   "movie_name": "Epic Adventure",
   "duration": 150,
@@ -24,3 +24,4 @@
     }
   ]
 }
+]
