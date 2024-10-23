@@ -6,21 +6,15 @@
   "clips": [
     {
       "clip_name": "Opening Scene",
-      "clip_url": "http://example.com/opening_scene.mp4",
+      "clip_url": "https://www.instagram.com/reel/DBbvoOcN45K/",
       "duration": 10,
       "clip_order_no": 1
     },
     {
       "clip_name": "Battle Scene",
-      "clip_url": "http://example.com/battle_scene.mp4",
+      "clip_url": "https://www.instagram.com/reel/DBbvoOcN45K/",
       "duration": 25,
       "clip_order_no": 2
-    },
-    {
-      "clip_name": "Ending Scene",
-      "clip_url": "http://example.com/ending_scene.mp4",
-      "duration": 15,
-      "clip_order_no": 3
     }
   ]
 }
