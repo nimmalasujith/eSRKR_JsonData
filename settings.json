@@ -6,13 +6,19 @@
   "clips": [
     {
       "clip_name": "Opening Scene",
-      "clip_url": "https://www.instagram.com/reel/DBbvoOcN45K/",
+      "clip_url": "https://www.instagram.com/reel/DBYau09IzZU/",
       "duration": 10,
       "clip_order_no": 1
     },
     {
       "clip_name": "Battle Scene",
-      "clip_url": "https://www.instagram.com/reel/DBbvoOcN45K/",
+      "clip_url": "https://www.instagram.com/reel/DBY6vCaIsxL/",
+      "duration": 25,
+      "clip_order_no": 2
+    },
+    {
+      "clip_name": "Battle Scene",
+      "clip_url": "https://www.instagram.com/reel/DBZJDoEobgw/",
       "duration": 25,
       "clip_order_no": 2
     }
