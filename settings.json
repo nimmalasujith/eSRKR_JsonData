@@ -7,13 +7,25 @@
    
     {
       "clip_name": "Battle Scene",
-      "clip_url": "https://www.instagram.com/reel/DBdX-tLNBuP/",
+      "clip_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "duration": 25,
       "clip_order_no": 2
     },
     {
       "clip_name": "Battle Scene",
-      "clip_url": "https://www.instagram.com/reel/DBA-4mYRntQ/",
+      "clip_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "duration": 25,
+      "clip_order_no": 2
+    },
+    {
+      "clip_name": "Battle Scene",
+      "clip_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "duration": 25,
+      "clip_order_no": 2
+    },
+    {
+      "clip_name": "Battle Scene",
+      "clip_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
       "duration": 25,
       "clip_order_no": 2
     }
